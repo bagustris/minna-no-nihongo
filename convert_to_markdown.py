@@ -82,8 +82,8 @@ def main():
     base_dir = Path(__file__).parent
     
     # Convert mnn1_all files
-    mnn1_dir = base_dir / 'mnn1_all'
-    mnn1_output_dir = base_dir / 'mnn1_all'
+    mnn1_dir = base_dir / 'mnn_sho_1'
+    mnn1_output_dir = base_dir / 'mnn_sho_1'
     
     if mnn1_dir.exists():
         for txt_file in sorted(mnn1_dir.glob('*.txt')):
@@ -93,7 +93,7 @@ def main():
                 book_num = match.group(1)
                 lesson_num = match.group(2)
                 # Create new filename: minna_no_nihongo_sho_1_x_01.md
-                new_name = f"minna_no_nihongo_sho_{book_num}_x_{lesson_num}.md"
+                new_name = f"minna_no_nihongo_sho_{book_num}_{lesson_num}.md"
                 md_file = mnn1_output_dir / new_name
                 convert_file_to_markdown(txt_file, md_file)
     
