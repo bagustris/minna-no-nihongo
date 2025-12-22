@@ -1,6 +1,41 @@
-# Chapter 1: Greetings and Introductions
+# Chapter 1: ～です / ～じゃありません / ～ですか　　
 
 ## Grammar
+
+1. Pattern N1は N2 です is used to state that N1 is N2.  
+Example:  
+私は学生です。
+わたしはがくせいです。
+I am a student.
+
+2. Negative form N1は N2 じゃありません is used to state that N1 is not N2.  
+Example:  
+彼は先生じゃありません。
+かれはせんせいじゃありません。
+He is not a teacher.
+
+3. Question pattern N1は N2 ですか is used to ask if N1 is N2.  
+Example:  
+あなたは会社員ですか。  
+あなたはかいしゃいんですか。  
+Are you a company employee?     
+
+4. N も is used to indicate "also" or "too".  
+Example:  
+彼も学生です。  
+かれもがくせいです。  
+He is also a student.  
+
+5. N1の N2 is used to connect two nouns.  
+Example: 
+バグスさんはインドネシアの人です。
+Mr. Bagus is an Indonesian (person).
+
+6. ~さん, ~ちゃん, ~くん are honorific suffixes added to names to show respect or familiarity.  
+Example:  
+田中さんは先生です。  
+たなかさんはせんせいです。  
+Mr. Tanaka is a teacher.
 
 ## Vocabulary
 
