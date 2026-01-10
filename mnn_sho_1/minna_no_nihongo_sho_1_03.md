@@ -27,7 +27,7 @@
 
    Example:  
    ここは教室です。  
-   This is the classroom.]
+   This is the classroom. 
 
 3. Pattern N1 (country/company/house) の N2 (product/place) is used to indicate that a place belongs to or is associated with a specific country, company, or house.
 
@@ -36,6 +36,7 @@
    It is the office of a Japanese company.
 
 4. KOSOADO system of demonstratives:  
+
 | | ko (near speaker) | so (near listener) | a (far from both) | do (question) |
 |---|---|---|---|---|
 | Thing | これ (this) | それ (that) | あれ (that over there) | どれ (which) |
