@@ -1,11 +1,11 @@
 # Chapter 43: ~ そうです 
 
-## Grammar key points:  
+## Grammar  
 
 1. The pattern ～そうです is used to express "looks like ~" or "seems ~" based on visual appearance or hearsay.
 
    - For verbs: V [dictionary form] + そうです  
-     Usually it was followed by 今にも、 meaning "at any moment",もうすぐ、 meaning "soon", and これから、 meaning "from now on" etc.
+     Usually it was followed by 今にも、 meaning "at any moment",もうすぐ、 meaning "soon", and これから、 meaning "from now on" etc.  
      Example:  
      明日雨が降るそうです。  
      It (looks like) will rain tomorrow.

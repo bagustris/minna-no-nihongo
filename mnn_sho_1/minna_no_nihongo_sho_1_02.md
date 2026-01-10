@@ -1,4 +1,4 @@
-# Chapter 2: これ・それ・あれ / この～・その～・あの～
+# Lesson 2: これ・それ・あれ / この～・その～・あの～
 
 
 ## Grammar  
@@ -50,7 +50,7 @@ Would you like coffee or tea?
 5. In this Lesson 2, The phrase N1のN2 is used as N1 explains or specifies N2 .  N1の N2 is also used to indicate possession, similar to the English "'s" or "of".  
 Example:  
 これは日本の車です。  
-This is a Japanese car. 
+This is a Japanese car.  
 これはわたしのほんです。  
 This is my book.  
 
