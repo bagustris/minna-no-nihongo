@@ -1,5 +1,53 @@
-# 
+# Lesson 4: 今 - 時 -分 です
 
+1. The words 今 (いま, now), 時 (じ, o'clock), and 分 (ふん/ぷん, minute) are used to tell time in Japanese.
+
+   - 今 (いま) refers to the current time.  
+     Example:  
+     今、何時ですか。  
+     What time is it now?
+
+   - 時 (じ) is used to indicate the hour.  
+     Example:  
+     ３時です。  
+     It is 3 o'clock.
+
+   - 分 (ふん/ぷん) is used to indicate minutes. The pronunciation changes depending on the number preceding it.  
+     Example:  
+     １０分です。  
+     It is 10 minutes.
+
+2. The pattern V ます / ません / ました / ませんでした is used to indicate present or future actions in a polite form. The verb stem is combined with ます to form this pattern.
+
+   Example:  
+   起きます。  
+   I get up.
+
+3 The pattern N (time expression) に V is used to indicate the time at which an action takes place. The time expression is followed by に (ni) before the verb.
+
+   Example:  
+   ８時に起きます。  
+   I get up at 8 o'clock.  
+
+4. The pattern N1 から N2 まで is used to indicate the starting point (N1) and the ending point (N2) of a time period or location.
+
+   Example:  
+   ９時から５時まで働きます。  
+   I work from 9 o'clock to 5 o'clock.  
+
+5. The particle と (to) is used to connect nouns, similar to the English word "and."
+
+   Example:  
+   月曜日と水曜日に勉強します。  
+   I study on Mondays and Wednesdays.  
+
+6. The particle 〜ね is used at the end of a sentence to seek confirmation or agreement from the listener, similar to "isn't it?" or "right?" in English.
+
+   Example:  
+   今日は暑いですね。  
+   It's hot today, isn't it?
+
+   
 ## Grammar
 
 ## Vocabulary

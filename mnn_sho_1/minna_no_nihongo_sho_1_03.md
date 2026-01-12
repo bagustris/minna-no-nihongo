@@ -45,6 +45,7 @@
 | Direction/Place (polite) | こちら (this way) | そちら (that way) | あちら (that way) | どちら (which way) |
 
 5. Polite expressions using お- and ご-   
+
 - The prefix お- (o-) and ご- (go-) are added to certain nouns to make them more polite. Example, お手洗い (otearai) for "toilet" and ご案内 (go-annai) for "guidance."
 
 ## Vocabulary
