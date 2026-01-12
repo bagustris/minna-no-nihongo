@@ -23,7 +23,7 @@
    起きます。  
    I get up.
 
-3 The pattern N (time expression) に V is used to indicate the time at which an action takes place. The time expression is followed by に (ni) before the verb.
+3. The pattern N (time expression) に V is used to indicate the time at which an action takes place. The time expression is followed by に (ni) before the verb.
 
    Example:  
    ８時に起きます。  
@@ -47,7 +47,7 @@
    今日は暑いですね。  
    It's hot today, isn't it?
 
-   
+
 ## Grammar
 
 ## Vocabulary
