@@ -1,7 +1,49 @@
-# 
+# Lesson 44: 〜すぎます　　
 
 ## Grammar
 
+1. 〜すぎます (too much) is used to indicate that something is done excessively or beyond a certain limit. It is attached to the stem of verbs, adjectives, and nouns.
+
+   - Verb stem + すぎます
+     - 食べすぎます (たべすぎます) - eat too much
+     - 飲みすぎます (のみすぎます) - drink too much
+
+   - Adjective stem + すぎます
+     - 高すぎます (たかすぎます) - too expensive
+     - 速すぎます (はやすぎます) - too fast
+
+   - Noun + すぎます
+     - 勉強しすぎます (べんきょうしすぎます) - study too much  
+
+2. V ますform --> やすいです。
+ 　　　　　　　 --> にくいです。
+    - This structure is used to express that something is easy or difficult to do.
+    - Example:
+      - この本は読みやすいです。 (This book is easy to read.)
+      - この漢字は書きにくいです。 (This kanji is difficult to write.)  
+
+3. い〜adj(〜~~い~~) --> 〜く | します  
+    な〜adj(〜~~な~~) --> 〜に | します  
+    Noun + に | します  
+
+     - This structure is used to change adjectives into adverbs.
+     - Example:
+        - 速い (はやい) --> 速くします (はやくします) - make it fast
+        - 静かな (しずかな) --> 静かにします (しずかにします) - make it quiet  
+
+4. Noun + に | します
+    - This structure is used to express selection or decision. 
+    - Example:  
+      - コーヒーにします。 (I will have coffee.)
+      - 和食にします。 (I will choose Japanese food.) 
+
+5.  い〜adj(〜~~い~~) --> 〜く | V  
+    な〜adj(〜~~な~~) --> 〜に | V  
+    when modifying adjectives as writtent above, they function as adverbs to modify verbs.
+     - Example:
+        - 速く走ります (はやくはしります) - run fast
+        - 静かに話します (しずかにはなします) - speak quietly  
+        
 ## Vocabulary
 
 | Kanji/Kana | Reading | Meaning |
