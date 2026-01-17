@@ -1,6 +1,53 @@
-# 
+# Lesson 6: 〜をします
 
 ## Grammar
+
+1. N を V　(transitive)
+    - This structure is used to indicate that an action is performed on an object. The particle を is attached to the object of the action.
+    - Example:
+      - ごはんを食べます。 (ごはんをたべます。) - I eat a meal.
+      - 映画を見ます。 (えいがをみます。) - I watch a movie.
+
+2. N をします (to do ~)
+    - This structure is used to indicate that an action is performed on an object, often used with activities or sports.
+    - Example:
+      - テニスをします。 (テニスをします。) - I play tennis.
+      - 宿題をします。 (しゅくだいをします。) - I do homework.
+
+3. 何をしますか (What do you do?)
+    - This question structure is used to ask about the action performed on an object.
+    - Example:
+      - 今何をしますか。 (いまなにをしますか。) - What do you do now?
+      - 週末に何をしますか。 (しゅうまつになにをしますか。) - What do you do on weekends?  
+
+4. なん and なに
+    - なん is used before counters and certain particles, while なに is used in other contexts.
+    - Example:
+      - 何人ですか。 (なんにんですか。) - How many people?
+      - 何を食べますか。 (なにをたべますか。) - What do you eat?　　
+
+5. N (place) で V
+    - This structure is used to indicate the place where an action takes place. The particle で is attached to the location.
+    - Example:
+      - 公園で遊びます。 (こうえんであそびます。) - I play in the park.
+      - レストランで食べます。 (レストランでたべます。) - I eat at the restaurant.
+
+6. V ませんか (Won't you ~?)
+    - This structure is used to make invitations or suggestions.
+    - Example:
+      - 一緒に映画を見ませんか。 (いっしょにえいがをみませんか。) - Won't you watch a movie together?
+      - 公園で遊びませんか。 (こうえんであそびませんか。) - Won't you play in the park?
+
+7. V ましょう (Let's ~)
+    - This structure is used to make suggestions or proposals to do something together.
+    - Example:
+      - 映画を見ましょう。 (えいがをみましょう。) - Let's watch a movie.
+      - 公園で遊びましょう。 (こうえんであそびましょう。) - Let's play in the park.  
+
+8. 〜か indicates that listener has received a new information (same as in そうですか).
+    - Example:
+        - A: 明日映画を見ます。 (あしたえいがをみます。) - I will watch a movie tomorrow.
+        - B: 映画を見ますか。どう？ (えいがをみますか。) - You will watch a movie?　How about it?
 
 ## Vocabulary
 

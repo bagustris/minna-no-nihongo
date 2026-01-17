@@ -1,4 +1,43 @@
-# 
+# Lesson 5: 〜へ、〜も、〜でいきます／いきません 
+
+1. 〜へ (to) is a particle used to indicate the direction or destination of movement. It is attached to the place where someone is going.
+
+   - Example:
+     - 学校へ行きます。 (がっこうへいきます) - I go to school.
+     - スーパーへ行きます。 (スーパーへいきます) - I go to the supermarket.
+
+2. 〜も (also, too) is a particle used to indicate that the information applies in addition to what has already been mentioned. It can be used with nouns, pronouns, and verbs.
+    - Example:
+      - 駅へ行きます。バスでも行きます。 (えきへいきます。バスでもいきます。) - I go to the station. I also go by bus.
+      - 彼も来ます。 (かれもきます。) - He is coming too.       
+
+3. 〜でいきます／いきません (go by ~ / do not go by ~) is a structure used to indicate the means of transportation used to go somewhere. The particle で is attached to the mode of transportation.
+    - Example:
+      - 電車で行きます。 (でんしゃでいきます。) - I go by train.
+      - 自転車で行きません。 (じてんしゃでいきません。) - I do not go by bicycle.   
+
+4. N と　V
+    - This structure is used to indicate that an action is done with someone else.
+    - Example:
+      - 友達と行きます。 (ともだちといきます。) - I go with my friend.
+      - 家族と行きます。 (かぞくといきます。) - I go with my family.
+
+5. To ask about time, use いつ (when) and the appropriate time word.
+   - Example:
+     - いつ行きますか。 (いついきますか。) - When will you go?
+     - 来週行きます。 (らいしゅういきます。) - I will go next week.
+
+6. ~よ
+    - This particle is used at the end of a sentence to emphasize information that the speaker believes the listener does not know.
+    - Example:
+      - 明日行きますよ。 (あしたいきますよ。) - I will go tomorrow (just so you know).
+      - これは美味しいですよ。 (これはおいしいですよ。) - This is delicious (just so you know).
+
+7. 〜そうですね
+    - This expression is used to show agreement or to confirm information that the speaker has just heard.
+    - Example:
+      - A: 明日雨が降るそうです。 (あしたあめがふるそうです。) - I heard it will rain tomorrow.
+      - B: そうですね。 (そうですね。) - Yes, that's right.
 
 ## Grammar
 
