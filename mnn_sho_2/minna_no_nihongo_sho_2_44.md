@@ -39,7 +39,8 @@
 
 5.  い〜adj(〜~~い~~) --> 〜く | V  
     な〜adj(〜~~な~~) --> 〜に | V  
-    when modifying adjectives as writtent above, they function as adverbs to modify verbs.
+
+    When modifying adjectives as writtent above, they function as adverbs to modify verbs.
      - Example:
         - 速く走ります (はやくはしります) - run fast
         - 静かに話します (しずかにはなします) - speak quietly  
