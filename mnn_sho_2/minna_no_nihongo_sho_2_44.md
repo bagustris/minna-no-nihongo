@@ -22,14 +22,14 @@
       - この本は読みやすいです。 (This book is easy to read.)
       - この漢字は書きにくいです。 (This kanji is difficult to write.)  
 
-3. い〜adj(〜~~い~~) --> 〜く | します  
-    な〜adj(〜~~な~~) --> 〜に | します  
+3. い〜adj(〜~~い~~) &rarr; 〜く | します  
+    な〜adj(〜~~な~~) &rarr; 〜に | します  
     Noun + に | します  
 
      - This structure is used to change adjectives into adverbs.
      - Example:
-        - 速い (はやい) --> 速くします (はやくします) - make it fast
-        - 静かな (しずかな) --> 静かにします (しずかにします) - make it quiet  
+        - 速い (はやい) &rarr; 速くします (はやくします) - make it fast
+        - 静かな (しずかな) &rarr; 静かにします (しずかにします) - make it quiet  
 
 4. Noun + に | します
     - This structure is used to express selection or decision. 
@@ -37,8 +37,8 @@
       - コーヒーにします。 (I will have coffee.)
       - 和食にします。 (I will choose Japanese food.) 
 
-5.  い〜adj(〜~~い~~) --> 〜く | V  
-    な〜adj(〜~~な~~) --> 〜に | V  
+5.  い〜adj(〜~~い~~) &rarr; 〜く | V  
+    な〜adj(〜~~な~~) &rarr; 〜に | V  
 
     When modifying adjectives as writtent above, they function as adverbs to modify verbs.
      - Example:

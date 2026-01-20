@@ -42,7 +42,7 @@
 2.  Verb | plain form | のに、〜
 　　い-adj |  plain form | のに、〜
 　　な-adj | plain form | のに、〜
-　　Noun  | 〜~~た~~　-> 〜な | のに、〜  
+　　Noun  | 〜~~た~~　&rarr; 〜な | のに、〜  
     - This structure is used to express "even though ~" or "despite ~". It indicates a contrast between two clauses, where the first clause presents a situation or condition, and the second clause presents an unexpected result or action.
     
     - Example:
