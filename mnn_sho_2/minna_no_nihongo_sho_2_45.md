@@ -1,6 +1,63 @@
-# 
+# Lesson 45:  場合は、〜
 
-## Grammar
+## Grammar　　
+1. The pattern ～場合は (ばあいは) is used to express "in case of ~" or "if ~". It is often used in formal contexts, such as instructions, manuals, and announcements.
+
+   - Verb dictionary form + 場合は  
+     Example:  
+    道に迷った場合は、警察に連絡してください。  
+    みちにまよったばあいは、けいさつにれんらくしてください。 
+     In case you get lost, please contact the police.
+
+   - い-adjective + 場合は  
+     Example:  
+     天気が悪い場合は、試合は中止になります。  
+    てんきがわるいばあいは、しあいはちゅうしになります。
+     In case the weather is bad, the game will be cancelled.
+
+   - な-adjective + な + 場合は  
+     Example:  
+     静かな場合は、図書館で勉強できます。  
+    しずかなばあいは、としょかんでべんきょうできます。
+     In case it is quiet, you can study in the library.
+
+   - Noun + の + 場合は  
+     Example:  
+     緊急の場合は、この番号に電話してください。  
+    きんきゅうのばあいは、このばんごうにでんわしてください。
+     In case of emergency, please call this number.
+
+    - Verb た-form + 場合は  
+     Example:  
+     予約した場合は、10分前に来てください。  
+    よやくしたばあいは、10ぷんまえにきてください。
+     In case you have a reservation, please come 10 minutes early.
+
+    - Verb ない-form + 場合は
+     Example:
+     財布を忘れない場合は、問題ありません。  
+     さいふをわすれないばあいは、もんだいありません。  
+     In case you do not forget your wallet, there is no problem.  
+
+2. V | plain form | のに、〜
+　　い-adj |  plain form | のに、〜
+　　な-adj | plain form | のに、〜
+　　Noun  | 〜~~た~~　-> 〜な | のに、〜  
+
+    - This structure is used to express "even though ~" or "despite ~". It indicates a contrast between two clauses, where the first clause presents a situation or condition, and the second clause presents an unexpected result or action.
+    
+    - Example:
+      - 雨が降っているのに、彼は傘を持っていません。  
+         あめがふっているのに、かれはかさをもっていません。  
+         Even though it is raining, he does not have an umbrella.
+      - 彼女は忙しいのに、手伝ってくれました。  
+         かのじょはいそがしいのに、てつだってくれました。  
+         Even though she is busy, she helped me.
+
+
+> [!NOTE]  
+> The different between 〜のに and 〜が/でも　is that 〜のに emphasizes the contrast between the two clauses, while 〜が/でも simply presents two contrasting ideas without emphasizing the unexpected nature of the second clause.     
+
 
 ## Vocabulary
 
