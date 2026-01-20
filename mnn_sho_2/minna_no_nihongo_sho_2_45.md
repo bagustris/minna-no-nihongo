@@ -6,7 +6,7 @@
    - Verb dictionary form + 場合は  
      Example:  
     道に迷った場合は、警察に連絡してください。  
-    みちにまよったばあいは、けいさつにれんらくしてください。 
+    みちにまよったばあいは、けいさつにれんらくしてください。  
      In case you get lost, please contact the police.
 
    - い-adjective + 場合は  
