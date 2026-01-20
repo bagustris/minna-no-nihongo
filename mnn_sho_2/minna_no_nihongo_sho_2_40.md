@@ -7,7 +7,6 @@
 Pattern:  
 
 | V て-form | 、 〜 |
-|------------|-----|
 | V　ない-form なくて | 、 〜 |
 | い-adj （〜　~~い~~) くて | 、 〜 |
 | な-adj （〜　~~な~~)  で | 、 〜 |
@@ -40,7 +39,6 @@ The train was delayed due to an accident.
 Pattern:  
 
 | V る/ない-form + ので | 〜 |
-|------------|-----|
 | い-adj + い ので | 〜 |
 | な-adj + な ので | 〜 |
 | N + の ので | 〜 |        
