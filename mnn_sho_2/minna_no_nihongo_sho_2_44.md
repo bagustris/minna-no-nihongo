@@ -15,8 +15,8 @@
    - Noun + すぎます
      - 勉強しすぎます (べんきょうしすぎます) - study too much  
 
-2. V ますform --> やすいです。
- 　　　　　　　 --> にくいです。
+2. V (ますform) | やすいです。  
+ 　　　　　　　   | にくいです。  
     - This structure is used to express that something is easy or difficult to do.
     - Example:
       - この本は読みやすいです。 (This book is easy to read.)
