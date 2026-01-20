@@ -12,31 +12,31 @@
    - い-adjective + 場合は  
      Example:  
      天気が悪い場合は、試合は中止になります。  
-    てんきがわるいばあいは、しあいはちゅうしになります。
+    てんきがわるいばあいは、しあいはちゅうしになります。  
      In case the weather is bad, the game will be cancelled.
 
    - な-adjective + な + 場合は  
      Example:  
      静かな場合は、図書館で勉強できます。  
-    しずかなばあいは、としょかんでべんきょうできます。
+    しずかなばあいは、としょかんでべんきょうできます。  
      In case it is quiet, you can study in the library.
 
    - Noun + の + 場合は  
      Example:  
      緊急の場合は、この番号に電話してください。  
-    きんきゅうのばあいは、このばんごうにでんわしてください。
+    きんきゅうのばあいは、このばんごうにでんわしてください。  
      In case of emergency, please call this number.
 
     - Verb た-form + 場合は  
      Example:  
      予約した場合は、10分前に来てください。  
-    よやくしたばあいは、10ぷんまえにきてください。
+    よやくしたばあいは、10ぷんまえにきてください。  
      In case you have a reservation, please come 10 minutes early.
 
     - Verb ない-form + 場合は
      Example:
      財布を忘れない場合は、問題ありません。  
-     さいふをわすれないばあいは、もんだいありません。  
+     さいふをわすれないばあいは、もんだいありません。   
      In case you do not forget your wallet, there is no problem.  
 
 2.  Verb | plain form | のに、〜
