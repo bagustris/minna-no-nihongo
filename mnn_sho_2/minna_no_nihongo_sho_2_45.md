@@ -1,4 +1,4 @@
-# Lesson 45:  場合は、〜
+# Lesson 45:  〜場合は、...
 
 ## Grammar　　
 1. The pattern ～場合は (ばあいは) is used to express "in case of ~" or "if ~". It is often used in formal contexts, such as instructions, manuals, and announcements.
@@ -39,7 +39,7 @@
      さいふをわすれないばあいは、もんだいありません。  
      In case you do not forget your wallet, there is no problem.  
 
-2. V | plain form | のに、〜
+2.      V | plain form | のに、〜
 　　い-adj |  plain form | のに、〜
 　　な-adj | plain form | のに、〜
 　　Noun  | 〜~~た~~　-> 〜な | のに、〜  
@@ -55,7 +55,7 @@
          Even though she is busy, she helped me.
 
 
-> [!NOTE]  
+> Note:       
 > The different between 〜のに and 〜が/でも　is that 〜のに emphasizes the contrast between the two clauses, while 〜が/でも simply presents two contrasting ideas without emphasizing the unexpected nature of the second clause.     
 
 
