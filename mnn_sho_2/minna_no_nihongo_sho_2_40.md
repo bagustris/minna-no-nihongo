@@ -26,9 +26,11 @@
       The rain fell, and the road got wet.  
 
 2. Particle で to indicate reason or cause.　　
-   Pattern:　N で  〜
+   Pattern:　
+   
+   N で | 〜
 
-   The N(oun) used in this pattern expresses a reason or cause from natural phenomena, events, and happenings. like じこ、あらし、かぜ、ねつ etc.
+   The N(oun) used in this pattern expresses a reason or cause from natural phenomena, events, and happenings. like じこ、あらし、かぜ、ねつ etc.  
    Example:  
    事故で電車が遅れました。  
    じこででんしゃがおくれました。  
