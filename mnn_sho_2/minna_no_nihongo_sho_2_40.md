@@ -3,9 +3,7 @@
 ## Grammar key points  
 
 1. Sentence to present cause (first part) and consequence (second part) resulted by the cause.  
-
 Pattern:  
-
 | V て-form | 、 〜 |
 | V　ない-form なくて | 、 〜 |
 | い-adj （〜　~~い~~) くて | 、 〜 |
@@ -26,18 +24,16 @@ Example:
 あめがふって、みちがぬれました。
 The rain fell, and the road got wet.  
 
-2. Particle で to indicate reason or cause.　　
-Pattern:　N で  〜
-
+2. Particle で to indicate reason or cause.　  　
+Pattern:　N で | 〜  
 The N(oun) used in this pattern expresses a reason or cause from natural phenomena, events, and happenings. like じこ、あらし、かぜ、ねつ etc.
 Example:  
 事故で電車が遅れました。  
 じこででんしゃがおくれました。  
 The train was delayed due to an accident.  
 
-3. ので to express reason or cause (more polite than から)  
-Pattern:  
-
+3. ので to express reason or cause (more polite than から)   
+Pattern:   
 | V る/ない-form + ので | 〜 |
 | い-adj + い ので | 〜 |
 | な-adj + な ので | 〜 |
@@ -60,7 +56,7 @@ Example:
 
 
 4. Expression 途中で　 to indicate "in the middle of ~", "on the way ~"  
-Pattern: N (place, time) + 途中で  〜
+Pattern: N (place, time) + 途中で  〜  
 Example:  
 - 学校へ行く途中で、友達に会いました。  
   がっこうへいくとちゅうで、ともだちにあいました。
