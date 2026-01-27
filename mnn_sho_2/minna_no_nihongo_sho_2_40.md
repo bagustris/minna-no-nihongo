@@ -46,7 +46,7 @@
    
    Example:  
    - 疲れたので、寝ます。  
-     つかれたので、ねます。
+     つかれたので、ねます。  
      I am tired, so I will sleep.
    - 雨が降っているので、出かけません。  
      あめがふっているので、でかけません。  
@@ -55,7 +55,7 @@
      かぜなので、がっこうをやすみます。  
      I am absent from school because I have a cold.  
    - 先生なので、忙しいです。  
-     せんせいなので、いそがしいです。
+     せんせいなので、いそがしいです。  
      Because I am a teacher, I am busy.  
 
 
@@ -66,10 +66,10 @@
    
    Example:  
    - 学校へ行く途中で、友達に会いました。  
-     がっこうへいくとちゅうで、ともだちにあいました。
+     がっこうへいくとちゅうで、ともだちにあいました。  
      I met my friend on the way to school.
    - 映画の途中で、電話がかかってきました。  
-     えいがのとちゅうで、でんわがかかってきました。
+     えいがのとちゅうで、でんわがかかってきました。  
      A phone call came in during the movie.  
    
    

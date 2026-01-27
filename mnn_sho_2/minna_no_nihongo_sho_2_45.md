@@ -33,7 +33,7 @@
     よやくしたばあいは、10ぷんまえにきてください。  
      In case you have a reservation, please come 10 minutes early.
 
-    - Verb ない-form + 場合は
+    - Verb ない-form + 場合は  
      Example:
      財布を忘れない場合は、問題ありません。  
      さいふをわすれないばあいは、もんだいありません。   
