@@ -1,6 +1,42 @@
-# 
+# Lesson 7: Giving and Receiving 
 
-## Grammar
+## Grammar   
+
+1. N で V (transitive)
+    - This structure is used to indicate a method or means by which an action is performed. The particle で is attached to the method or means.  
+    - Example:
+      - ハサミで切ります。 (ハサミできります。) - I cut with scissors.  
+      - ペンで書きます。 (ペンでかきます。) - I write with a pen.  
+
+2. [word/phrase] は　〜語で なんですか。
+    - This structure is used to ask how to say a word or phrase in a particular language. The particle で indicates the language.　　
+    - Example:　　
+      - 「ありがとう」は英語でなんですか。 (「ありがとう」はえいごでなんですか。) - How do you say "thank you" in English?  
+      - 「こんにちは」はスペイン語でなんですか。 (「こんにちは」はスペインごでなんですか。) - How do you say "hello" in Spanish?　　
+
+3. N1 は N2 を　あげます。
+    - This structure is used to indicate that the subject (N1) gives something to someone (N2). The particle に indicates the recipient.　　
+    - Example:　　
+      - 私は友達に本をあげます。 (わたしはともだちにほんをあげます。) - I give a book to my friend.  
+      - 彼は母に花をあげます。 (かれはははにはなをあげます。) - He gives flowers to his mother.  
+
+4. N1 は N2 を　もらいます。
+    - This structure is used to indicate that the subject (N1) receives something from someone (N2). The particle に indicates the giver.　　
+    - Example:　　
+      - 私は友達に本をもらいます。 (わたしはともだちにほんをもらいます。) - I receive a book from my friend.  
+
+5. もう V しました　　
+   もう　means already. Combined with しました at the end of setence indicate that action was comlete.  
+   Example:  
+   - バナナもお食べました　　
+   　 I already ete banana.
+
+6. Omission of particles  
+   In informal dialogue, some particles can be omitted.  
+   Example:  
+   これ（は）、すき(ですか）？
+   How about this, do you like it?
+
 
 ## Vocabulary
 
