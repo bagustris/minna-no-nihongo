@@ -1,6 +1,70 @@
-# 
+# Lesson 46:  ところです。
+
 
 ## Grammar
+
+### 1. V（辞書形）ところです
+- **Meaning:** Be about to do ~
+- **Usage:** Indicates that an action is about to begin.
+- **Example:**
+  - 今から昼ごはんを食べる**ところです**。  
+    *I'm about to eat lunch now.*
+  - 今出かける**ところです**。  
+    *I'm just about to go out.*
+
+### 2. V（て形）いるところです
+- **Meaning:** Be in the middle of doing ~
+- **Usage:** Indicates that an action is currently in progress.
+- **Example:**
+  - 今レポートを書いている**ところです**。  
+    *I'm in the middle of writing a report.*
+  - 今資料を調べている**ところです**。  
+    *I'm in the middle of checking the documents.*
+
+### 3. V（た形）ところです
+- **Meaning:** Have just done ~
+- **Usage:** Indicates that an action has just been completed.
+- **Example:**
+  - たった今うちへ帰った**ところです**。  
+    *I've just come home.*
+  - 今電話が終わった**ところです**。  
+    *The phone call has just ended.*
+
+### 4. V（た形）ばかりです
+- **Meaning:** Have just done ~ (recently)
+- **Usage:** Indicates that not much time has passed since an action was completed. Unlike ～たところです, this can refer to a slightly longer time frame (days or weeks).
+- **Example:**
+  - 先週日本へ来た**ばかりです**。  
+    *I just came to Japan last week.*
+  - このカメラは買った**ばかり**なのに、もう壊れてしまいました。  
+    *Even though I just bought this camera, it's already broken.*
+
+### 5. ～はずです
+- **Meaning:** Should ~, be supposed to ~, be expected to ~
+- **Usage:** Expresses the speaker's expectation or assumption based on logical reasoning or evidence.
+- **Formation:**
+  - V（普通形）＋ はずです
+  - い-adj（普通形）＋ はずです
+  - な-adj ＋ な ＋ はずです
+  - N ＋ の ＋ はずです
+- **Example:**
+  - 彼はもう来る**はずです**。  
+    *He should be coming soon.*
+  - あの店は安い**はずです**。  
+    *That store should be cheap.*
+  - 彼女は元気な**はずです**。  
+    *She should be well.*
+  - 今日は休みの**はずです**。  
+    *Today should be a holiday.*
+
+### 6. ～はずがありません
+- **Meaning:** There's no way that ~, cannot possibly ~
+- **Usage:** Strong denial of a possibility.
+- **Example:**
+  - 彼がそんなことを言う**はずがありません**。  
+    *There's no way he would say such a thing.*
+  - あの人が嘘をつく**はずがない**。  
+    *That person couldn't possibly tell a lie.*
 
 ## Vocabulary
 
