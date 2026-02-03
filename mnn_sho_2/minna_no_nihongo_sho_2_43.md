@@ -32,7 +32,7 @@
     図書館へ行って来ます。  
     I am going to the library and will come back.
 
-    3. Pattern: 出かけて来ます. It is used when you don't specify the place you are going to or activity you are going to do.   
+    3. Pattern 〜出かけて来ます is used when you don't specify the place you are going to or activity you are going to do.   
     Example:  
     ちょっと出かけて来ます。  
     I am going out for a while and will come back.

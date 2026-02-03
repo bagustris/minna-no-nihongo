@@ -5,7 +5,7 @@
 
 ### 1. V（辞書形）ところです
 - **Meaning:** Be about to do ~
-- **Usage:** Indicates that an action is about to begin.
+- **Usage:** Indicates (temporal position) that an action is about to begin.
 - **Example:**
   - 今から昼ごはんを食べる**ところです**。  
     *I'm about to eat lunch now.*
