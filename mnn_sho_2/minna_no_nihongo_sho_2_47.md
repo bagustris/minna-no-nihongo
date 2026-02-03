@@ -1,6 +1,60 @@
-# 
+# Lesson 47: ～そうです (Hearsay)
 
 ## Grammar
+
+### 1. 普通形＋そうです (Hearsay)
+- **Meaning:** I heard that ~, They say that ~
+- **Usage:** Used to convey information heard from another source (hearsay). Different from Lesson 43's ～そうです (appearance).
+- **Formation:**
+  - V（普通形）＋ そうです
+  - い-adj（普通形）＋ そうです
+  - な-adj ＋ だ ＋ そうです
+  - N ＋ だ ＋ そうです
+- **Example:**
+  - 天気予報によると、明日は雨だ**そうです**。  
+    *According to the weather forecast, they say it will rain tomorrow.*
+  - 彼女は来月結婚する**そうです**。  
+    *I heard she's getting married next month.*
+  - あの映画はおもしろい**そうです**。  
+    *I heard that movie is interesting.*
+
+### 2. ～によると
+- **Meaning:** According to ~
+- **Usage:** Indicates the source of information. Often used with ～そうです.
+- **Example:**
+  - **天気予報によると**、週末は晴れるそうです。  
+    *According to the weather forecast, the weekend will be sunny.*
+  - **ニュースによると**、人口が増えているそうです。  
+    *According to the news, the population is increasing.*
+
+### 3. ～ようです
+- **Meaning:** It seems that ~, It appears that ~
+- **Usage:** Expresses a conjecture based on what the speaker has seen, heard, or felt. The speaker makes a judgment based on information obtained through their senses.
+- **Formation:**
+  - V（普通形）＋ ようです
+  - い-adj（普通形）＋ ようです
+  - な-adj ＋ な ＋ ようです
+  - N ＋ の ＋ ようです
+- **Example:**
+  - パトカーの音がします。事故があった**ようです**。  
+    *I hear a patrol car. It seems there was an accident.*
+  - 彼は病気の**ようです**。  
+    *He seems to be sick.*
+  - この料理はおいしい**ようです**。  
+    *This dish appears to be delicious.*
+
+### 4. ～声/音/味/においがします
+- **Meaning:** ~ sounds/tastes/smells
+- **Usage:** Describes perceptions through senses.
+- **Example:**
+  - 変な**音がします**。  
+    *I hear a strange sound.*
+  - 子供の**声がします**。  
+    *I hear children's voices.*
+  - このスープはいい**味がします**。  
+    *This soup tastes good.*
+  - 花の**においがします**。  
+    *It smells like flowers.*
 
 ## Vocabulary
 

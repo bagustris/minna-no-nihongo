@@ -1,6 +1,70 @@
-# 
+# Lesson 49: 尊敬語 (Respectful Expressions)
 
 ## Grammar
+
+### 1. Respectful Verbs (尊敬語)
+- **Usage:** Used to show respect when talking about someone of higher status.
+
+| Plain Form | Respectful Form | Meaning |
+|------------|-----------------|----------|
+| いる | いらっしゃる | be |
+| 行く | いらっしゃる | go |
+| 来る | いらっしゃる | come |
+| 食べる/飲む | 召し上がる | eat/drink |
+| 言う | おっしゃる | say |
+| する | なさる | do |
+| 見る | ご覧になる | see |
+| 知っている | ご存じだ | know |
+
+- **Example:**
+  - 先生は今どこに**いらっしゃいますか**。  
+    *Where is the teacher now?*
+  - 社長は何と**おっしゃいましたか**。  
+    *What did the president say?*
+  - どうぞ**召し上がってください**。  
+    *Please help yourself (to food/drink).*
+
+### 2. お V（ます form）になります
+- **Meaning:** Respectful form of verbs
+- **Usage:** A general pattern to make verbs respectful when special respectful verbs don't exist.
+- **Example:**
+  - 先生は何時に**お帰りになりますか**。  
+    *What time will the teacher return?*
+  - 社長は**お読みになりました**。  
+    *The president read it.*
+  - もう**お聞きになりましたか**。  
+    *Have you heard already?*
+
+### 3. お V（ます form）ください
+- **Meaning:** Please do ~ (respectful request)
+- **Usage:** A polite way to make requests.
+- **Example:**
+  - こちらに**お掛けください**。  
+    *Please have a seat here.*
+  - 少々**お待ちください**。  
+    *Please wait a moment.*
+  - **お気をつけください**。  
+    *Please take care.*
+
+### 4. ～でいらっしゃいます
+- **Meaning:** Be ~ (respectful form of です)
+- **Usage:** Used to show respect when describing someone.
+- **Example:**
+  - 田中先生**でいらっしゃいますか**。  
+    *Are you Professor Tanaka?*
+  - こちらは山田様**でいらっしゃいます**。  
+    *This is Mr. Yamada.*
+
+### 5. お＋N（owned by someone respected）
+- **Meaning:** Honorific prefix for nouns
+- **Usage:** Adding お to nouns related to the respected person.
+- **Example:**
+  - 先生の**お宅**はどちらですか。  
+    *Where is your house, sensei?*
+  - **お名前**は何とおっしゃいますか。  
+    *What is your name?*
+  - **お忙しい**ですか。  
+    *Are you busy?*
 
 ## Vocabulary
 
