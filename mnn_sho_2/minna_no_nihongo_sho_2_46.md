@@ -1,5 +1,6 @@
-# Lesson 46:  ところです。
+# Lesson 46:  〜ところです、　〜ばかり、　〜はずです。
 
+[tokoro](./figs/Gemini_bagus_46a.png)
 
 ## Grammar
 
@@ -9,7 +10,7 @@
 - **Example:**
   - 今から昼ごはんを食べる**ところです**。  
     *I'm about to eat lunch now.*
-  - 今出かける**ところです**。  
+  - これから出かける**ところです**。  
     *I'm just about to go out.*
 
 ### 2. V（て形）いるところです
@@ -27,8 +28,8 @@
 - **Example:**
   - たった今うちへ帰った**ところです**。  
     *I've just come home.*
-  - 今電話が終わった**ところです**。  
-    *The phone call has just ended.*
+  - ちょうど今電話が終わった**ところです**。  
+    *The phone call has just ended now.*
 
 ### 4. V（た形）ばかりです
 - **Meaning:** Have just done ~ (recently)
