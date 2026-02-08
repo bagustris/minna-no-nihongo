@@ -1,6 +1,6 @@
 # Lesson 46:  〜ところです、　〜ばかり、　〜はずです。
 
-[tokoro](./figs/Gemini_bagus_46a.png)
+![tokoro](./figs/Gemini_bagus_46a.png)
 
 ## Grammar
 
