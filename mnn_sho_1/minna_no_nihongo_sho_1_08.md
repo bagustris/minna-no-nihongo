@@ -2,22 +2,61 @@
 
 ## Grammar  
 
-1. | N は　い-ajd [~~な~~] です | 
+1. | N は　い-ajd [~~な~~] です |
+   | N は　な-adj [〜い]　です　|
+   - Example:
+     - この本は新しいです。
+     - このほんはあたらしいです。
+     - This book is new.
+     - あの人は親切です。
+     - あのひとはしんせつです。
+     - That person is kind.
+
    | N は　な-adj [〜い]　です　|
 
 2. | な-adj な　N |
+   | い-adj (〜い) です |
+   - Example:
+     - きれいな花です。
+     - きれいなはなです。
+     - It is a beautiful flower.
+     - 大きい家です。
+     - おおきいいえです。
+     - It is a big house.
+
    | い-adj (〜い) です |
 
 3. ~が、〜  
    Particle が　is used to connet antithetical relationsip.  
 
-4. とても/あまり　are used for affirmative (agreement). とても is for positive, while あまり is for negative.   
+4. とても/あまり　are used for affirmative (agreement). とても is for positive, while あまり is for negative.
+   - Example:
+     - このケーキはとてもおいしいです。
+     - This cake is very delicious.
+     - この店はあまり大きくないです。
+     - このみせはあまりおおきくないです。
+     - This shop is not very big.
+
 
 5.  N はどうですか　is used to ask listener impression.
+   - Example:
+     - 日本の生活はどうですか。
+     - にほんのせいかつはどうですか。
+     - How is life in Japan?
+
 
 6. N1 は　どんな　N2 ですか　is used to ask about state or nature of things.
+   - Example:
+     - 京都はどんな町ですか。
+     - きょうとはどんなまちですか。
+     - What kind of town is Kyoto?
 
-7. 「そうですね」is used to express agreement. 
+
+7. 「そうですね」is used to express agreement.
+   - Example:
+     - そうですね、暑いですね。
+     - Yes, it is hot, isn't it?
+
 　　
 
 ## Vocabulary
