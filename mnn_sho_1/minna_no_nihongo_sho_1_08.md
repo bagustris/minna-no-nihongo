@@ -1,6 +1,24 @@
-# 
+# Lesson 8: い-adj and な-adj  
 
-## Grammar
+## Grammar  
+
+1. | N は　い-ajd [~~な~~] です | 
+   | N は　な-adj [〜い]　です　|
+
+2. | な-adj な　N |
+   | い-adj (〜い) です |
+
+3. ~が、〜  
+   Particle が　is used to connet antithetical relationsip.  
+
+4. とても/あまり　are used for affirmative (agreement). とても is for positive, while あまり is for negative.   
+
+5.  N はどうですか　is used to ask listener impression.
+
+6. N1 は　どんな　N2 ですか　is used to ask about state or nature of things.
+
+7. 「そうですね」is used to express agreement. 
+　　
 
 ## Vocabulary
 
