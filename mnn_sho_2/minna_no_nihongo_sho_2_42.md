@@ -1,3 +1,8 @@
+---
+title: "Chapter 42:  TAMENI, NO NI, and NI"
+order: 42
+---
+
 # Chapter 42:  TAMENI, NO NI, and NI
 
 ## Key Grammar Points:  

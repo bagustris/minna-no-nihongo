@@ -1,3 +1,8 @@
+---
+title: "Lesson 50: 謙譲語 (Humble Expressions)"
+order: 50
+---
+
 # Lesson 50: 謙譲語 (Humble Expressions)
 
 ## Grammar

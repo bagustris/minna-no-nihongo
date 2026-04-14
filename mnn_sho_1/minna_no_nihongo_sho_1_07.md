@@ -1,3 +1,8 @@
+---
+title: "Lesson 7: Giving and Receiving"
+order: 7
+---
+
 # Lesson 7: Giving and Receiving 
 
 ## Grammar   

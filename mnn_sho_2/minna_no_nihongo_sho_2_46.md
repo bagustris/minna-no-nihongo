@@ -1,3 +1,8 @@
+---
+title: "Lesson 46:  〜ところです、　〜ばかり、　〜はずです。"
+order: 46
+---
+
 # Lesson 46:  〜ところです、　〜ばかり、　〜はずです。
 
 ![tokoro](./figs/Gemini_bagus_46a.png)

@@ -1,3 +1,8 @@
+---
+title: "Lesson 45:  〜場合は、..."
+order: 45
+---
+
 # Lesson 45:  〜場合は、...
 
 ## Grammar　　

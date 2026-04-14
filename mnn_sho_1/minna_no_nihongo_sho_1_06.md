@@ -1,3 +1,8 @@
+---
+title: "Lesson 6: 〜をします"
+order: 6
+---
+
 # Lesson 6: 〜をします
 
 ## Grammar

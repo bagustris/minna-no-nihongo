@@ -1,3 +1,8 @@
+---
+title: "Minna no Nihongo"
+order: 0
+---
+
 Minna no nihongo
 ================= 
 

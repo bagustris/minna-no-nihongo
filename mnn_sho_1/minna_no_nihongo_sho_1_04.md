@@ -1,3 +1,8 @@
+---
+title: "Lesson 4: 今 - 時 -分 です"
+order: 4
+---
+
 # Lesson 4: 今 - 時 -分 です
 
 1. The words 今 (いま, now), 時 (じ, o'clock), and 分 (ふん/ぷん, minute) are used to tell time in Japanese.

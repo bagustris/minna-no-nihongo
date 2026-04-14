@@ -1,3 +1,8 @@
+---
+title: "Lesson 44: 〜すぎます"
+order: 44
+---
+
 # Lesson 44: 〜すぎます　　
 
 ## Grammar

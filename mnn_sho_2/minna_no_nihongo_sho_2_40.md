@@ -1,3 +1,8 @@
+---
+title: "Chapter 40: 〜て、〜で、〜ので、途中で"
+order: 40
+---
+
 # Chapter 40: 〜て、〜で、〜ので、途中で
 
 ## Grammar key points  

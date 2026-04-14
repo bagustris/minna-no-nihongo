@@ -1,3 +1,8 @@
+---
+title: "Lesson 48: 使役形 (Causative Form)"
+order: 48
+---
+
 # Lesson 48: 使役形 (Causative Form)
 
 ## Grammar

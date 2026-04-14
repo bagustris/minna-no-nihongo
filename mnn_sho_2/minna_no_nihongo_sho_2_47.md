@@ -1,3 +1,8 @@
+---
+title: "Lesson 47: ～そうです (Hearsay)"
+order: 47
+---
+
 # Lesson 47: ～そうです (Hearsay)
 
 ## Grammar
