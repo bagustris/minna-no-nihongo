@@ -1,0 +1,3 @@
+remote_theme: bagustris/primer2-theme
+plugins:
+  - jekyll-remote-theme
