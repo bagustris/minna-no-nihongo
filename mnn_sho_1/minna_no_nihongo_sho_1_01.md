@@ -1,9 +1,9 @@
 ---
-title: "Lesson 1: ～です / ～じゃありません / ～ですか"
+title: "Lesson 1"
 order: 1
 ---
 
-# Lesson 1: ～です / ～じゃありません / ～ですか　　
+# ～です / ～じゃありません / ～ですか　　
 
 ## Grammar
 

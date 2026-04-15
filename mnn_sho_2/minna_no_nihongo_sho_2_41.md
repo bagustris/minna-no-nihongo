@@ -3,7 +3,7 @@ title: "Chapter 41: Itadakimasu, Kudasaimasu, and Yarimasu"
 order: 41
 ---
 
-# Chapter 41: Itadakimasu, Kudasaimasu, and Yarimasu
+# いだきます、くださいます、やります
 
 ## Grammar key points  
 

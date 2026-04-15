@@ -1,9 +1,9 @@
 ---
-title: "Chapter 40: 〜て、〜で、〜ので、途中で"
+title: "Chapter 40"
 order: 40
 ---
 
-# Chapter 40: 〜て、〜で、〜ので、途中で
+# 〜て、〜で、〜ので、途中で
 
 ## Grammar key points  
 

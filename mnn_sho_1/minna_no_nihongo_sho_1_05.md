@@ -1,9 +1,9 @@
 ---
-title: "Lesson 5: 〜へ、〜も、〜でいきます／いきません"
+title: "Lesson 5"
 order: 5
 ---
 
-# Lesson 5: 〜へ、〜も、〜でいきます／いきません 
+# 〜へ、〜も、〜でいきます／いきません 
 
 1. 〜へ (to) is a particle used to indicate the direction or destination of movement. It is attached to the place where someone is going.
 

@@ -1,9 +1,9 @@
 ---
-title: "Lesson 8: い-adj and な-adj"
+title: "Lesson 8"
 order: 8
 ---
 
-# Lesson 8: い-adj and な-adj  
+# い-adj and な-adj  
 
 ## Grammar  
 

@@ -1,9 +1,9 @@
 ---
-title: "Lesson 7: Giving and Receiving"
+title: "Lesson 7  "
 order: 7
 ---
 
-# Lesson 7: Giving and Receiving 
+# Giving and Receiving 
 
 ## Grammar   
 

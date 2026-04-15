@@ -1,9 +1,9 @@
 ---
-title: "Lesson 44: 〜すぎます"
+title: "Lesson 44"
 order: 44
 ---
 
-# Lesson 44: 〜すぎます　　
+# 〜すぎます　　
 
 ## Grammar
 

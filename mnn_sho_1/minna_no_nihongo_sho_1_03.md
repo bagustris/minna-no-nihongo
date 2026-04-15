@@ -1,9 +1,9 @@
 ---
-title: "Lesson 3: ここは どこ ですか。"
+title: "Lesson 3"
 order: 3
 ---
 
-# Lesson 3: ここは どこ ですか。
+# ここは どこ ですか。
 
 ## Grammar  
 1. The word ここ (here), そこ (there), あそこ (over there), and どこ (where) are used to indicate locations based on proximity to the speaker and listener. The word こちら (this way), そちら (that way), あちら (that way over there), and どちら (which way) are the polite forms used in formal situations.
