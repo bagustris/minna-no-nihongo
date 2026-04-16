@@ -18,29 +18,29 @@ order: 35
     - な-adj: delete the last な and attach なら
     - Noun: attach なら　　
 
-2. Conditional form pattern: requirements, effect
+2. Conditional form pattern: requirements, effect  
    Example:  
-   ボタンをおせば、窓があきます。
+   ボタンをおせば、窓があきます。  
    雨がふれば、エベントがキャンセルします。　　
 
 3. Negative form  
    Example:  
-   バスが来なければ、歩きます。
+   バスが来なければ、歩きます。  
    感じドリルしなければ、覚えていません。　　
 
 4. Adding requirements  
    Example:  
-   明日体の調子がよければ、いけます。
+   明日体の調子がよければ、いけます。  
    都合がわるくければ、いけません。
 
 5. Asking question  
    Example:  
-   京都駅にいきたいんですが、どうすればいいですか？
-   大阪エクスポートにいきたいんですが、どうやって行きますか？
+   京都駅にいきたいんですが、どうすればいいですか？  
+   大阪エクスポートにいきたいんですが、どうやって行きますか？  
 
 6. Giving advice  
    Example:  
-   山登りのかばんなら、EIGER ブランドがいいですよ。
+   山登りのかばんなら、EIGER ブランドがいいですよ。  
    いい靴なら、メーレールがいいと思ういますよ。
 
 ## Vocabulary
