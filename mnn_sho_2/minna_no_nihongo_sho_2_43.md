@@ -1,9 +1,9 @@
 ---
-title: "Chapter 43: 〜そうです、〜て来ます"
+title: "Lesson 43"
 order: 43
 ---
 
-# Chapter 43: 〜そうです、〜て来ます
+# 〜そうです、〜て来ます
 
 ## Grammar  
 

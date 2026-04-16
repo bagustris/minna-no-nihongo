@@ -1,9 +1,9 @@
 ---
-title: "Lesson 46:  〜ところです、　〜ばかり、　〜はずです。"
+title: "Lesson 46"
 order: 46
 ---
 
-# Lesson 46:  〜ところです、　〜ばかり、　〜はずです。
+# 〜ところです、　〜ばかり、　〜はずです。
 
 ![tokoro](./figs/Gemini_bagus_46a.png)
 

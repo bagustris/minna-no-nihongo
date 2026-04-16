@@ -1,5 +1,5 @@
 ---
-title: "Chapter 41: Itadakimasu, Kudasaimasu, and Yarimasu"
+title: "Lesson 41"
 order: 41
 ---
 

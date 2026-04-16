@@ -1,5 +1,5 @@
 ---
-title: "Chapter 40"
+title: "Lesson 40"
 order: 40
 ---
 

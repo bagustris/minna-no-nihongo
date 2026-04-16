@@ -1,9 +1,9 @@
 ---
-title: "Lesson 45:  〜場合は、..."
+title: "Lesson 45"
 order: 45
 ---
 
-# Lesson 45:  〜場合は、...
+# 〜場合は、...
 
 ## Grammar　　
 1. The pattern ～場合は (ばあいは) is used to express "in case of ~" or "if ~". It is often used in formal contexts, such as instructions, manuals, and announcements.

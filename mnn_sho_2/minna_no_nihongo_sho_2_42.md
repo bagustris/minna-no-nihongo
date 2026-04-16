@@ -1,9 +1,9 @@
 ---
-title: "Chapter 42:  TAMENI, NO NI, and NI"
+title: "Lesson 42"
 order: 42
 ---
 
-# Chapter 42:  TAMENI, NO NI, and NI
+# ために、のに、に
 
 ## Key Grammar Points:  
 1. Patterns using ～ために and ～のために is to indicate purpose.  
