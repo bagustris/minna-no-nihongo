@@ -3,7 +3,7 @@ title: "Lesson 43"
 order: 43
 ---
 
-# 〜そうです、〜て来ます
+# Key concept: 〜そうです、〜て来ます
 
 ## Grammar  
 

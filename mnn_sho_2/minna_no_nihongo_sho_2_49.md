@@ -1,6 +1,6 @@
 # Lesson 49
 
-# 尊敬語 (Respectful Expressions)
+# Key Concept: 尊敬語 (そんけいご、Respectful Expressions)
 
 ## Grammar
 

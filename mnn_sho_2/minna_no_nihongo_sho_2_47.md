@@ -1,6 +1,6 @@
 # Lesson 47
 
-# ～そうです (Hearsay)
+# Key concept: ～そうです (Hearsay)
 
 ## Grammar
 

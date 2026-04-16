@@ -1,6 +1,6 @@
 # Lesson 50
 
-## 謙譲語 (Humble Expressions)
+## Key Concept: 謙譲語 (けんじょうご, Humble Expressions)
 
 ## Grammar
 

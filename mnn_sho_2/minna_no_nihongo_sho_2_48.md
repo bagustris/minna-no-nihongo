@@ -1,12 +1,12 @@
 # Lesson 48
 
-# 使役形 (Causative Form)
+# Key concept: 使役形 (しえきけい、Causative Form)
 
 ## Grammar
 
-### 1. Causative Form (使役形)
+### 1. Causative Form (使役形)　・　Causative Verb（使役動詞・しえきどうし)
 - **Meaning:** Make/let someone do ~
-- **Formation:**
+- **Formation:**　　
   - **Group I:** Change the last vowel う to あ + せる  
     書く → 書かせる, 読む → 読ませる, 行く → 行かせる
   - **Group II:** Drop る and add させる  

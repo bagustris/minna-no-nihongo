@@ -3,7 +3,7 @@ title: "Lesson 33"
 order: 33
 ---
 
-# 
+# Key concept: 命令 (めいれい command)
 
 ## Grammar
 

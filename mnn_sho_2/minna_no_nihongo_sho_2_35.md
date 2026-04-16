@@ -3,9 +3,45 @@ title: "Lesson 35"
 order: 35
 ---
 
-# 
+# Key concept: 条件形　（じょうけんけい　conditional form)
 
-## Grammar
+## Grammar  
+
+1. How to make conditional form:  
+    - Verb:  
+        - Group I: change ます to え-sound and add ば
+        - Group II: change ます to れば　
+        - Group III:
+            - きます > くれば　
+            - します > すれば 
+    - い-adj: change the last い to ければ 
+    - な-adj: delete the last な and attach なら
+    - Noun: attach なら　　
+
+2. Conditional form pattern: requirements, effect
+   Example:  
+   ボタンをおせば、窓があきます。
+   雨がふれば、エベントがキャンセルします。　　
+
+3. Negative form  
+   Example:  
+   バスが来なければ、歩きます。
+   感じドリルしなければ、覚えていません。　　
+
+4. Adding requirements  
+   Example:  
+   明日体の調子がよければ、いけます。
+   都合がわるくければ、いけません。
+
+5. Asking question  
+   Example:  
+   京都駅にいきたいんですが、どうすればいいですか？
+   大阪エクスポートにいきたいんですが、どうやって行きますか？
+
+6. Giving advice  
+   Example:  
+   山登りのかばんなら、EIGER ブランドがいいですよ。
+   いい靴なら、メーレールがいいと思ういますよ。
 
 ## Vocabulary
 

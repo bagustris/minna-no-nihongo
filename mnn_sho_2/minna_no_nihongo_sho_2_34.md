@@ -3,7 +3,7 @@ title: "Lesson 34"
 order: 34
 ---
 
-# 
+# Key concept: Contitional (~と)
 
 ## Grammar
 
