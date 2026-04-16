@@ -3,7 +3,8 @@ title: "Lesson 35"
 order: 35
 ---
 
-# Key concept: 条件形　（じょうけんけい　conditional form)
+# Lesson 35  
+### Key concept: 条件形　（じょうけんけい　conditional form)
 
 ## Grammar  
 
