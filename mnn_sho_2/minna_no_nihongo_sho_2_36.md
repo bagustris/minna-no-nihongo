@@ -3,9 +3,25 @@ title: "Lesson 36"
 order: 36
 ---
 
-# 
+# Lesson 36  
+### Key concept: 可能形　（かのうけい　potential form)
 
 ## Grammar
+1. V1 indicate a purpose/aim, while V2 indicates a volitional action to get closer to that objective.  
+    Example:  
+    日本語ができるように、毎日日本語を学びます。
+
+2. V + ようになりました indicates changes of state.  
+    Example:  
+    漢字が読めるようになりました。
+
+3. Try to make habit 
+   Example:  
+   できるだけ、１０時までに寝るようにしています。
+
+4. Ask tp perform habit
+    Example:  
+    もっとご飯を食べるようにしてください。
 
 ## Vocabulary
 
