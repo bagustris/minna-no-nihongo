@@ -3,9 +3,35 @@ title: "Lesson 37"
 order: 37
 ---
 
-# 
+# Lesson 37
+### Key concept: 受身 (passive voice)　　
 
-## Grammar
+## Grammar　　
+1. Passive form of verbs:  
+    Group 1: う → わ + れる  
+    Group 2: る → ら + れる  
+    Group 3: する → される, 来る → 来られる
+
+2. 
+   Example:  
+   私部長にほめられました。 　
+
+3.  
+
+　　私は誰かに自転車を取られました。　　
+
+4.  
+
+　　大阪で展覧会がひられます。　　
+
+5.  
+
+　　この美術館は来月壊されます。
+
+6.  
+
+　　日本の車はいろいろな国へ輸出されています。
+
 
 ## Vocabulary
 
