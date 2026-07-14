@@ -4,34 +4,54 @@ order: 37
 ---
 
 # Lesson 37
-### Key concept: 受身 (passive voice)　　
+### Key concept: 受身 (passive voice)
 
-## Grammar　　
-1. Passive form of verbs:  
-    Group 1: う → わ + れる  
+## Grammar
+1. How to form the passive voice:  
+    Group 1: い → わ + れる  
+    Example:  
+    いいます→いわれる  
     Group 2: る → ら + れる  
+    Example:  
+    たべる→たべられる  
     Group 3: する → される, 来る → 来られる
 
-2. 
-   Example:  
-   私部長にほめられました。 　
+2. Person 1 state that person 2's action is directed to her/him.  
+    Pattern:  
+    N1は N2 に Vられる  
+    Example:  
+    私は部長にほめられました。
 
-3.  
+3. Express that action from person 2 feels annoying to person 1.  
+    Pattern:  
+    N1は N2 に Noun を Vられる  
+    Example:  
+    私は誰かに自転車を取られました。  
+    わたし　は　だれか　に　じてんしゃ　を　とられました。  
+    (Someone stole my bicycle)
 
-　　私は誰かに自転車を取られました。　　
+4. Mention that an action is done by someone or something.  
+    Pattern:  
+    N(thing) は/が V passive  
+    Example:  
+    大阪で展覧会がひらかれます。  
+    おおさか　で　てんらんかい　が　ひらかれます。  
+    (An exhibition will be held in Osaka.)
 
-4.  
+5. Express something is created or discovered by someone.  
+    Pattern:  
+    N(thing) は/が N(person) に V passive  
+    Example:  
+    この美術館は来月壊されます。  
+    この　びじゅつかん　は　らいげつ　こわされます。  
+    (This art museum will be destroyed next month.)
 
-　　大阪で展覧会がひられます。　　
-
-5.  
-
-　　この美術館は来月壊されます。
-
-6.  
-
-　　日本の車はいろいろな国へ輸出されています。
-
+6. Express that something is made from raw materials.  
+    Pattern:  
+    N(thing) から/ N(thing) でつくられます  
+    Example:  
+    日本の車はいろいろな国へ輸出されています。  
+    にほん　の　くるま　は　いろいろな　くに　へ　ゆしゅつされています。
 
 ## Vocabulary
 
@@ -67,22 +87,22 @@ order: 37
 | 世界中 | せかいじゅう | all over the world |
 | ～中 | ～じゅう | all over ~ |
 | ～によって | ～によって | by |
-| よかったですね | よかったですね | Thats lucky, isn't it? |
+| よかったですね | よかったですね | That's lucky, isn't it? |
 | ドミニカ | ドミニカ | Dominica |
 | ライト兄弟 | ライトきょうだい | Wright Brothers |
 | 源氏物語 | げんじものがたり | "The Tale of Genji" |
-| 紫式部 | むらさきしきぶ | Heian Period (9th Century) female novellist who wrote "The Tale of Genji" |
-| グラハムーベル | グラハムーベル | Alexander Graham Bell |
+| 紫式部 | むらさきしきぶ | Heian Period (9th Century) female novelist who wrote "The Tale of Genji" |
+| グラハム・ベル | グラハム・ベル | Alexander Graham Bell |
 | 東照宮 | とうしょうぐう | Shrine dedicated to Tokugawa Ieyasu |
 | 江戸時代 | えどじだい | Edo Period |
-| サウジアラビア | サウジアラビア | Saudia Arabia |
+| サウジアラビア | サウジアラビア | Saudi Arabia |
 | 埋め立てます | うめたてます | reclaim |
 | 技術 | ぎじゅつ | technology, technique |
 | 土地 | とち | land |
 | 騒音 | そうおん | noise |
 | 利用します | りようします | use |
 | アクセス | アクセス | access |
-| ー世紀 | ーせいき | - century |
+| ～世紀 | ～せいき | - century |
 | 豪華 | ごうか | gorgeous |
 | 彫刻 | ちょうこく | engraving, carving, sculpture |
 | 眠ります | ねむります | sleep |
@@ -93,4 +113,4 @@ order: 37
 | ねずみ | ねずみ | mouse |
 | 一匹もいません | いっぴきもいません | There is not a single (mouse) |
 | 眠り猫 | ねむりねこ | The Sleeping Cat |
-| 左甚五郎 | ひだりじんごろう | famous japanese sculptor of the Edo Period |
+| 左甚五郎 | ひだりじんごろう | famous Japanese sculptor of the Edo Period |

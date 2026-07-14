@@ -19,7 +19,7 @@ order: 36
    Example:  
    できるだけ、１０時までに寝るようにしています。
 
-4. Ask tp perform habit.  
+4. Ask to perform habit.  
     Example:  
     もっとご飯を食べるようにしてください。
 
