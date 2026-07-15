@@ -3,9 +3,36 @@ title: "Lesson 38"
 order: 38
 ---
 
-# 
+# Lesson 38
+### Key concept: 使役 (causative voice)
 
 ## Grammar
+1. How to form the causative voice:  
+    Group 1: い → わ + せる  
+    Example:  
+    いう/いいます→いわせる/いわせます  
+    Group 2: る → さ + せる  
+    Example:  
+    たべる→たべさせる  
+    Group 3: する → させる, 来る → 来させる  
+    Example:  
+    勉強する→勉強させる
+
+2. Make someone do something (with a transitive verb).  
+    Pattern:  
+    N1(人) は N2(人) に V(他動詞)させる  
+    Example:  
+    私は妹に部屋を片付けさせました。  
+    わたし　は　いもうと　に　へや　を　かたづけさせました。  
+    (I made my younger sister tidy up the room.)
+
+3. Make or let someone do something (with an intransitive verb).  
+    Pattern:  
+    N1(人) は N2(人) を V(自動詞)させる  
+    Example:  
+    母は私を買い物に行かせました。  
+    はは　は　わたし　を　かいもの　に　いかせました。  
+    (My mother made me go shopping.)
 
 ## Vocabulary
 
@@ -26,7 +53,7 @@ order: 38
 | 小さな | ちいさな | small |
 | 赤ちゃん | あかちゃん | baby |
 | 小学校 | しょうがっこう | elementary school |
-| 中学校 | ちゅうがっこう | junior high scool |
+| 中学校 | ちゅうがっこう | junior high school |
 | 駅前 | えきまえ | in front of the station |
 | 海岸 | かいがん | seaside, seashore |
 | うそ | うそ | lie |
@@ -44,7 +71,7 @@ order: 38
 | ～冊 | ～さつ | (counter for books, etc.) |
 | はんこ | はんこ | seal stamp |
 | 押します | おします | affix |
-| 判子お押します | はんこをおします | affix a seal |
+| 判子を押します | はんこをおします | affix a seal |
 | 双子 | ふたご | twins |
 | 姉妹 | しまい | sisters |
 | ５年生 | ５ねんせい | fifth grade, fifth year |
