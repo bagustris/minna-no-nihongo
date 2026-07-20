@@ -3,9 +3,36 @@ title: "Lesson 20"
 order: 20
 ---
 
-# 
+# Plain (Casual) Form
 
 ## Grammar
+
+1. **Use case:** Introduce the plain/casual style used with family and close friends, contrasted with the polite ます／です style used in all other contexts.
+   **Pattern:** V（辞書形／ない形／た形）、Adj（辞書形）、N＋だ
+   - Example:
+     - 書きます → 書く／書かない／書いた
+     - かきます → かく／かかない／かいた
+     - write / don't write / wrote (plain forms)
+     - 高いです → 高い
+     - たかいです → たかい
+     - expensive (plain form)
+
+2. **Use case:** Omit particles such as を、へ、は、が in casual spoken conversation when the meaning is clear from context.
+   **Pattern:** N（助詞省略）V
+   - Example:
+     - ご飯食べる？
+     - ごはんたべる？
+     - Eat (rice)?
+     - このりんごおいしいね。
+     - このりんごおいしいね。
+     - This apple is delicious, isn't it!
+
+3. **Use case:** Express contrast in casual conversation, equivalent to が in polite style.
+   **Pattern:** 普通形＋けど、〜
+   - Example:
+     - ちょっと辛いけど、おいしい。
+     - ちょっとからいけど、おいしい。
+     - It's a bit spicy, but it's delicious.
 
 ## Vocabulary
 

@@ -3,9 +3,44 @@ title: "Lesson 14"
 order: 14
 ---
 
-# 
+# て-form: Requests and Offers
 
 ## Grammar
+
+1. **Use case:** Introduce the て-form, the connective form of the verb used for requests, sequencing, and other patterns (Group 1: sound-shift by ending, e.g. かきます→かいて; Group 2: ます→て; Group 3: irregular します→して、来ます→来て).
+   **Pattern:** V（て形）
+   - Example:
+     - 書きます → 書いて
+     - かきます → かいて
+     - write → (please) write
+
+2. **Use case:** Politely ask someone to do something.
+   **Pattern:** V（て形）ください
+   - Example:
+     - ちょっと待ってください。
+     - ちょっとまってください。
+     - Please wait a moment.
+
+3. **Use case:** Offer to do something for someone.
+   **Pattern:** V（ます形の語幹）ましょうか
+   - Example:
+     - 地図を書きましょうか。
+     - ちずをかきましょうか。
+     - Shall I draw a map (for you)?
+
+4. **Use case:** Use が as a soft connector (not "but") before a question or request, to soften the tone.
+   **Pattern:** すみませんが／失礼しますが、～
+   - Example:
+     - すみませんが、お名前は。
+     - すみませんが、おなまえは。
+     - Excuse me, but may I have your name?
+
+5. **Use case:** Describe a natural phenomenon such as weather, where が marks the subject.
+   **Pattern:** Nが V
+   - Example:
+     - 雨が降ります。
+     - あめがふります。
+     - It rains.
 
 ## Vocabulary
 

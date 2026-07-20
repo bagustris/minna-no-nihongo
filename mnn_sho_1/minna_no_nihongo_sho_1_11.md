@@ -3,9 +3,50 @@ title: "Lesson 11"
 order: 11
 ---
 
-# 
+# Counters and Quantity Expressions
 
 ## Grammar
+
+1. **Use case:** Count objects, people, or occurrences using the counter that matches the item type.
+   **Pattern:** N を 数字＋助数詞 V
+   - Example:
+     - りんごを四つ買いました。
+     - りんごをよっつかいました。
+     - I bought four apples.
+     - 切手を三枚ください。
+     - きってをさんまいください。
+     - Please give me three stamps.
+
+2. **Use case:** Ask about quantity, either generically or with a specific counter.
+   **Pattern:** いくつ／何＋助数詞
+   - Example:
+     - りんごをいくつ買いましたか。
+     - りんごをいくつかいましたか。
+     - How many apples did you buy?
+     - この会社に外国人が何人いますか。
+     - このかいしゃにがいこくじんがなんにんいますか。
+     - How many foreigners are there in this company?
+
+3. **Use case:** Express an approximate amount.
+   **Pattern:** 数字＋助数詞＋ぐらい
+   - Example:
+     - 教室に学生が三十人ぐらいいます。
+     - きょうしつにがくせいがさんじゅうにんぐらいいます。
+     - There are about thirty students in the classroom.
+
+4. **Use case:** State how many times something happens within a period.
+   **Pattern:** 期間に 数字＋回 V
+   - Example:
+     - 一か月に三回映画を見ます。
+     - いっかげつにさんかいえいがをみます。
+     - I watch a movie three times a month.
+
+5. **Use case:** Limit a statement to only the item mentioned, replacing を or が.
+   **Pattern:** N（数量）だけ
+   - Example:
+     - わたしは野菜だけ食べます。
+     - わたしはやさいだけたべます。
+     - I eat only vegetables.
 
 ## Vocabulary
 

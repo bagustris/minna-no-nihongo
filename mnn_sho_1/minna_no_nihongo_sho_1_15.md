@@ -3,9 +3,44 @@ title: "Lesson 15"
 order: 15
 ---
 
-# 
+# てもいいです／てはいけません and ています (State)
 
 ## Grammar
+
+1. **Use case:** Grant permission — tell someone they are allowed to do something.
+   **Pattern:** V（て形）もいいです
+   - Example:
+     - ここで写真を撮ってもいいです。
+     - ここでしゃしんをとってもいいです。
+     - You may take pictures here.
+
+2. **Use case:** Prohibit an action — tell someone they are not allowed to do something.
+   **Pattern:** V（て形）はいけません
+   - Example:
+     - ここでたばこを吸ってはいけません。
+     - ここでたばこをすってはいけません。
+     - You must not smoke here.
+
+3. **Use case:** Describe an ongoing situation or a result that continues into the present.
+   **Pattern:** V（て形）います
+   - Example:
+     - わたしは大阪に住んでいます。
+     - わたしはおおさかにすんでいます。
+     - I live in Osaka.
+
+4. **Use case:** Describe a habitual action, routine, or occupation.
+   **Pattern:** V（て形）います
+   - Example:
+     - ミラーさんはIMCで働いています。
+     - ミラーさんはIMCではたらいています。
+     - Mr. Miller works at IMC.
+
+5. **Use case:** Say that the speaker does not know something.
+   **Pattern:** 知りません
+   - Example:
+     - あの人を知っていますか。いいえ、知りません。
+     - あのひとをしっていますか。いいえ、しりません。
+     - Do you know that person? No, I don't know him/her.
 
 ## Vocabulary
 

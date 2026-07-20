@@ -3,9 +3,40 @@ title: "Lesson 34"
 order: 34
 ---
 
-# Key concept: Contitional (~と)
+# Key concept: とおり／あとで／て・ないで (Manner and Sequence)
 
 ## Grammar
+
+1. **Use case:** Say that an action is carried out in accordance with a demonstrated or specified way.
+   **Pattern:** N の／V（辞書形・た形）とおりに、V
+   - Example:
+     - 線のとおりに、切ってください。
+     - せんのとおりに、きってください。
+     - Please cut along the line.
+     - わたしがやるとおりに、やってください。
+     - わたしがやるとおりに、やってください。
+     - Please do it the way I do it.
+
+2. **Use case:** Describe an action that occurs after a preceding action/event is completed.
+   **Pattern:** N の／V（た形）あとで、V
+   - Example:
+     - 仕事のあとで、飲みに行きませんか。
+     - しごとのあとで、のみにいきませんか。
+     - Shall we go for a drink after work?
+
+3. **Use case:** Describe how an action is accompanied by another state or manner (with something added).
+   **Pattern:** V（て形）＋V
+   - Example:
+     - しょうゆをつけて食べます。
+     - しょうゆをつけてたべます。
+     - I eat it with soy sauce added.
+
+4. **Use case:** Describe choosing to do an action while omitting/foregoing a compatible alternative action ("without doing").
+   **Pattern:** V（ない形）で＋V
+   - Example:
+     - どこも行かないで、うちで休みます。
+     - どこもいかないで、うちでやすみます。
+     - I'll stay home and rest, without going anywhere.
 
 ## Vocabulary
 

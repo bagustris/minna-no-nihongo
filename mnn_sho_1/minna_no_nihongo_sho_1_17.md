@@ -3,9 +3,51 @@ title: "Lesson 17"
 order: 17
 ---
 
-# 
+# Dictionary Form and ことができます
 
 ## Grammar
+
+1. **Use case:** Introduce the dictionary (plain, non-past) form of the verb, the base form used in many later grammar patterns (Group 1: ます→u-column; Group 2: ます→る; Group 3: irregular).
+   **Pattern:** V（辞書形）
+   - Example:
+     - 書きます → 書く
+     - かきます → かく
+     - write (dictionary form)
+
+2. **Use case:** State an ability or possibility of doing something.
+   **Pattern:** V（辞書形）ことができます
+   - Example:
+     - わたしは絵をかくことができます。
+     - わたしはえをかくことができます。
+     - I can draw pictures.
+
+3. **Use case:** State what one's hobby is.
+   **Pattern:** わたしの趣味は V（辞書形）ことです
+   - Example:
+     - わたしの趣味は映画を見ることです。
+     - わたしのしゅみはえいがをみることです。
+     - My hobby is watching movies.
+
+4. **Use case:** Say that something happens before a certain time or event.
+   **Pattern:** N（時間）の／V（辞書形）まえに、〜
+   - Example:
+     - 寝るまえに薬を飲みます。
+     - ねるまえにくすりをのみます。
+     - I take medicine before going to bed.
+
+5. **Use case:** Express that something does not happen easily, despite effort or expectation.
+   **Pattern:** なかなか＋V（ない形）
+   - Example:
+     - バスがなかなか来ません。
+     - バスがなかなかきません。
+     - The bus doesn't come for a long time.
+
+6. **Use case:** Express a strong wish or earnest invitation.
+   **Pattern:** ぜひ＋V
+   - Example:
+     - ぜひ日本へ行きたいです。
+     - ぜひにほんへいきたいです。
+     - I really want to go to Japan.
 
 ## Vocabulary
 

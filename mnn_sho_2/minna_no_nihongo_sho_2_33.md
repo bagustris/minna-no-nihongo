@@ -7,6 +7,54 @@ order: 33
 
 ## Grammar
 
+1. **Use case:** Give a strong, blunt command, restricted to superior-to-subordinate or urgent situations (Group 1: ます→e column; Group 2: ます→ろ; Group 3: irregular).
+   **Pattern:** V（命令形）
+   - Example:
+     - 書きます → 書け
+     - かきます → かけ
+     - Write! (command)
+     - あしたまでにレポートをまとめろ。
+     - あしたまでにレポートをまとめろ。
+     - Have the report finished by tomorrow!
+
+2. **Use case:** Forbid an action bluntly, using the dictionary form plus な.
+   **Pattern:** V（辞書形）な
+   - Example:
+     - 書くな。
+     - かくな。
+     - Don't write!
+     - 出るな。
+     - でるな。
+     - Don't go out!
+
+3. **Use case:** Ask how a word is read or written.
+   **Pattern:** N は 何と 読みますか／書きますか
+   - Example:
+     - あの漢字は何と読むんですか。
+     - あのかんじはなんとよむんですか。
+     - How do you read that kanji?
+
+4. **Use case:** Ask or explain what a term or sign means.
+   **Pattern:** N1は N2という意味です
+   - Example:
+     - このマークはどういう意味ですか。
+     - このマークはどういういみですか。
+     - What does this mark mean?
+
+5. **Use case:** Report what someone said (indirect speech).
+   **Pattern:** 普通形＋と言っていました
+   - Example:
+     - 田中さんは今日休むと言っていました。
+     - たなかさんはきょうやすむといっていました。
+     - Mr. Tanaka said he'd be off today.
+
+6. **Use case:** Politely ask someone to relay a message to a third person.
+   **Pattern:** 普通形＋と伝えていただけませんか
+   - Example:
+     - あとで電話してくださいと伝えていただけませんか。
+     - あとででんわしてくださいとつたえていただけませんか。
+     - Could you tell him/her to call me back later?
+
 ## Vocabulary
 
 | Kanji/Kana | Reading | Meaning |

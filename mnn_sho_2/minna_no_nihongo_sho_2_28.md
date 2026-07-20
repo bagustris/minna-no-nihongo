@@ -3,9 +3,44 @@ title: "Lesson 28"
 order: 28
 ---
 
-# 
+# ながら／し (Simultaneous Actions and Reasons)
 
 ## Grammar
+
+1. **Use case:** Express that the subject performs two actions at the same time; the second (ます-stem) verb is the main action.
+   **Pattern:** V1（ます形の語幹）ながら、V2
+   - Example:
+     - 音楽を聞きながら、食事します。
+     - おんがくをききながら、しょくじします。
+     - I eat while listening to music.
+
+2. **Use case:** Describe a habit or routine (as in Lesson 15), using いました for a past habit.
+   **Pattern:** V（て形）います／いました
+   - Example:
+     - 毎朝ジョギングをしています。
+     - まいあさジョギングをしています。
+     - I jog every morning.
+
+3. **Use case:** List multiple reasons or characteristics, implying there are more beyond what is said.
+   **Pattern:** 普通形＋し、普通形＋し、〜
+   - Example:
+     - 色がきれいだし、デザインもいいし、この靴を買いました。
+     - いろがきれいだし、デザインもいいし、このくつをかいました。
+     - The color is pretty, and the design is nice too, so I bought these shoes.
+
+4. **Use case:** Add further information or another reason to what was just said ("moreover").
+   **Pattern:** それに、〜
+   - Example:
+     - 値段が安いし、おいしいんです。それに、駅から近いです。
+     - ねだんがやすいし、おいしいんです。それに、えきからちかいです。
+     - It's cheap and delicious. Moreover, it's close to the station.
+
+5. **Use case:** Connect a cause to its natural consequence ("therefore, as a result").
+   **Pattern:** 〜。それで、〜
+   - Example:
+     - 値段が安いし、おいしいんです。それで、人が多いんですね。
+     - ねだんがやすいし、おいしいんです。それで、ひとがおおいんですね。
+     - It's cheap and delicious. That's why it's crowded.
 
 ## Vocabulary
 

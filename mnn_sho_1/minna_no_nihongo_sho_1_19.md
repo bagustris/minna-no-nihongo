@@ -3,9 +3,47 @@ title: "Lesson 19"
 order: 19
 ---
 
-# 
+# た-form: Past Experience and Listing Actions
 
 ## Grammar
+
+1. **Use case:** Introduce the た-form (plain past), formed the same way as the て-form but with た／だ instead of て／で.
+   **Pattern:** V（た形）
+   - Example:
+     - 書きます → 書いた
+     - かきます → かいた
+     - wrote
+
+2. **Use case:** State that the speaker has had a certain experience at some point in the past.
+   **Pattern:** V（た形）ことがあります
+   - Example:
+     - 日本へ行ったことがありますか。
+     - にほんへいったことがありますか。
+     - Have you ever been to Japan?
+
+3. **Use case:** List a few representative actions among several, not necessarily in chronological order.
+   **Pattern:** V1（た形）り、V2（た形）り します
+   - Example:
+     - 週末は掃除したり、洗濯したりします。
+     - しゅうまつはそうじしたり、せんたくしたりします。
+     - On weekends, I do things like cleaning and doing laundry.
+
+4. **Use case:** Express a change of state from one condition to another.
+   **Pattern:** Adj／N に なります
+   - Example:
+     - 寒くなりました。
+     - さむくなりました。
+     - It has become cold.
+     - 25歳になります。
+     - にじゅうごさいになります。
+     - I am turning 25.
+
+5. **Use case:** Show agreement or sympathy with what the other person just said.
+   **Pattern:** そうですね
+   - Example:
+     - 寒くなりましたね。そうですね。
+     - さむくなりましたね。そうですね。
+     - It's gotten cold, hasn't it? Yes, it has.
 
 ## Vocabulary
 

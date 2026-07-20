@@ -3,9 +3,43 @@ title: "Lesson 13"
 order: 13
 ---
 
-# 
+# 欲しい／～たい (Wants and Desires)
 
 ## Grammar
+
+1. **Use case:** Say that the speaker wants to possess a thing.
+   **Pattern:** Nが 欲しいです
+   - Example:
+     - わたしは新しいパソコンが欲しいです。
+     - わたしはあたらしいパソコンがほしいです。
+     - I want a new computer.
+
+2. **Use case:** Say that the speaker wants to perform an action.
+   **Pattern:** V(ます形の語幹)たいです
+   - Example:
+     - わたしは沖縄へ行きたいです。
+     - わたしはおきなわへいきたいです。
+     - I want to go to Okinawa.
+     - 今晩は何も食べたくないです。
+     - こんばんはなにもたべたくないです。
+     - I don't want to eat anything tonight.
+
+3. **Use case:** Express going/coming/returning to a place in order to do something (purpose of movement).
+   **Pattern:** N(場所)へ V(ます形の語幹)に 行きます／来ます／帰ります
+   - Example:
+     - 日本へ日本語を勉強しに行きたいです。
+     - にほんへにほんごをべんきょうしにいきたいです。
+     - I want to go to Japan to study Japanese.
+
+4. **Use case:** Refer to an unspecified place or thing; the particles へ／を can be dropped.
+   **Pattern:** どこか（へ）／何か（を）
+   - Example:
+     - 冬休みはどこか行きましたか。
+     - ふゆやすみはどこかいきましたか。
+     - Did you go somewhere during the winter vacation?
+     - おなかがすきましたね。何か食べませんか。
+     - おなかがすきましたね。なにかたべませんか。
+     - You must be hungry. Shall we eat something?
 
 ## Vocabulary
 

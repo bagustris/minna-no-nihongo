@@ -3,9 +3,40 @@ title: "Lesson 23"
 order: 23
 ---
 
-# 
+# とき／と (Time and Inevitable Result)
 
 ## Grammar
+
+1. **Use case:** Express "when/at the time that" — the tense of the clause before とき shows whether the sub-action is not-yet-done (dictionary/ない form) or already done (た form) relative to the main clause.
+   **Pattern:** 普通形（辞書形／ない形／た形／い形／な形＋な／Nの）＋とき、〜
+   - Example:
+     - 新聞を読むとき、めがねをかけます。
+     - しんぶんをよむとき、めがねをかけます。
+     - I put on glasses when I read the newspaper.
+     - 東京へ行ったとき、その本を買いました。
+     - とうきょうへいったとき、そのほんをかいました。
+     - I bought that book when I went to Tokyo (had already gone).
+
+2. **Use case:** Describe an automatic or inevitable result that follows from an action or condition.
+   **Pattern:** V（辞書形／ない形）＋と、〜
+   - Example:
+     - このボタンを押すと、お釣りが出ます。
+     - このボタンをおすと、おつりがでます。
+     - If you press this button, change comes out.
+
+3. **Use case:** Describe a state or natural phenomenon, marking the subject with が.
+   **Pattern:** Nが Adj／V
+   - Example:
+     - 音が小さいです。
+     - おとがちいさいです。
+     - The sound is faint.
+
+4. **Use case:** Mark the location through/along which movement happens (with verbs like 歩きます, 散歩します, 渡ります).
+   **Pattern:** N（場所）を V（移動）
+   - Example:
+     - 公園を散歩します。
+     - こうえんをさんぽします。
+     - I take a walk through the park.
 
 ## Vocabulary
 

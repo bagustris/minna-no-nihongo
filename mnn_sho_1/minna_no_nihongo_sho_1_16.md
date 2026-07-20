@@ -3,9 +3,58 @@ title: "Lesson 16"
 order: 16
 ---
 
-# 
+# Connecting Sentences with the て-form
 
 ## Grammar
+
+1. **Use case:** Connect two or more actions performed in sequence by the same subject; only the final verb carries tense.
+   **Pattern:** V1（て形）、V2（て形）、V3
+   - Example:
+     - 朝ジョギングをして、シャワーを浴びて、会社へ行きます。
+     - あさジョギングをして、シャワーをあびて、かいしゃへいきます。
+     - In the morning I jog, take a shower, and go to work.
+
+2. **Use case:** Connect い-adjectives describing the same subject; the final adjective keeps its full form.
+   **Pattern:** い-adj（〜くて）、い-adj です
+   - Example:
+     - この部屋は大きくて、明るいです。
+     - このへやはおおきくて、あかるいです。
+     - This room is big and bright.
+
+3. **Use case:** Connect な-adjectives or nouns describing the same subject.
+   **Pattern:** な-adj（な→で）／N で、〜
+   - Example:
+     - 木村さんはハンサムで、親切です。
+     - きむらさんはハンサムで、しんせつです。
+     - Mr. Kimura is handsome and kind.
+
+4. **Use case:** Express that one action is fully completed before the next one begins.
+   **Pattern:** V1（て形）から、V2
+   - Example:
+     - 手を洗ってから、食べます。
+     - てをあらってから、たべます。
+     - I wash my hands, and then eat.
+
+5. **Use case:** Describe one aspect/part of a person or thing while the whole is the topic.
+   **Pattern:** N1は N2が Adj
+   - Example:
+     - マリアさんは髪が長いです。
+     - マリアさんはかみがながいです。
+     - Maria has long hair. (lit. As for Maria, her hair is long.)
+
+6. **Use case:** Ask how something is done (method).
+   **Pattern:** どうやって V
+   - Example:
+     - 駅までどうやって行きますか。
+     - えきまでどうやっていきますか。
+     - How do you get to the station?
+
+7. **Use case:** Ask which one, out of three or more choices, is being referred to.
+   **Pattern:** どの N
+   - Example:
+     - 山田さんはどの人ですか。
+     - やまださんはどのひとですか。
+     - Which person is Mr. Yamada?
 
 ## Vocabulary
 

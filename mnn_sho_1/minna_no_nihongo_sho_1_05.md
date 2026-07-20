@@ -5,6 +5,8 @@ order: 5
 
 # 〜へ、〜も、〜でいきます／いきません 
 
+## Grammar
+
 1. 〜へ (to) is a particle used to indicate the direction or destination of movement. It is attached to the place where someone is going.
 
    - Example:
@@ -43,8 +45,6 @@ order: 5
     - Example:
       - A: 明日雨が降るそうです。 (あしたあめがふるそうです。) - I heard it will rain tomorrow.
       - B: そうですね。 (そうですね。) - Yes, that's right.
-
-## Grammar
 
 ## Vocabulary
 

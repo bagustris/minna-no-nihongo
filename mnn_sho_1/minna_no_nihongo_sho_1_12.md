@@ -3,9 +3,46 @@ title: "Lesson 12"
 order: 12
 ---
 
-# 
+# Adjective Comparisons
 
 ## Grammar
+
+1. **Use case:** Compare two things, saying one has more of a quality than the other.
+   **Pattern:** N1は N2より Adj です
+   - Example:
+     - 今日は昨日より暑いです。
+     - きょうはきのうよりあついです。
+     - Today is hotter than yesterday.
+     - このかばんはそのかばんより軽いです。
+     - このかばんはそのかばんよりかるいです。
+     - This bag is lighter than that one.
+
+2. **Use case:** Ask which of two things has more of a quality; answer with のほう.
+   **Pattern:** N1と N2と どちらが Adj ですか／N2のほうが Adj です
+   - Example:
+     - 夏と冬とどちらが好きですか。
+     - なつとふゆとどちらがすきですか。
+     - Which do you like more, summer or winter?
+     - 冬のほうが好きです。
+     - ふゆのほうがすきです。
+     - I like winter better.
+
+3. **Use case:** Ask which one, among a group of three or more, has the most of a quality; answer with いちばん.
+   **Pattern:** N（の中）で 疑問詞が いちばん Adj ですか
+   - Example:
+     - 季節の中でいつがいちばん好きですか。
+     - きせつのなかでいつがいちばんすきですか。
+     - Which season do you like the best?
+     - 秋がいちばん好きです。
+     - あきがいちばんすきです。
+     - I like autumn the best.
+
+4. **Use case:** Ask about preference between two named items, or answer that both apply equally.
+   **Pattern:** N1と N2と どちらも
+   - Example:
+     - すしと刺身とどちらも好きです。
+     - すしとさしみとどちらもすきです。
+     - I like both sushi and sashimi.
 
 ## Vocabulary
 

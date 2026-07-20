@@ -3,9 +3,47 @@ title: "Lesson 31"
 order: 31
 ---
 
-# 
+# 意向形 (Volitional Form) and Plans
 
 ## Grammar
+
+1. **Use case:** Introduce the volitional (let's/I will) form, expressing the speaker's intention (Group 1: u→o column+う; Group 2: ます→よう; Group 3: irregular).
+   **Pattern:** V（意向形）
+   - Example:
+     - 書きます → 書こう
+     - かきます → かこう
+     - I will write / let's write
+     - 食べます → 食べよう
+     - たべます → たべよう
+     - I will eat / let's eat
+
+2. **Use case:** State an ongoing intention or plan, including reporting a third person's intention.
+   **Pattern:** V（意向形）と思っています
+   - Example:
+     - 銀行へ行こうと思っています。
+     - ぎんこうへいこうとおもっています。
+     - I'm planning to go to the bank.
+
+3. **Use case:** Express a firm decision about a future action or inaction, stronger than とおもっています.
+   **Pattern:** V（辞書形／ない形）つもりです
+   - Example:
+     - 明日からたばこを吸わないつもりです。
+     - あしたからたばこをすわないつもりです。
+     - I've decided not to smoke starting tomorrow.
+
+4. **Use case:** Describe a concrete, arranged plan or schedule.
+   **Pattern:** N／V（辞書形）予定です
+   - Example:
+     - 七月の終わりにドイツへ出張する予定です。
+     - しちがつのおわりにドイツへしゅっちょうするよていです。
+     - I'm scheduled to go on a business trip to Germany at the end of July.
+
+5. **Use case:** State that an action has not yet been completed/begun.
+   **Pattern:** まだ V（て形）いません
+   - Example:
+     - 銀行はまだ開いていません。
+     - ぎんこうはまだあいていません。
+     - The bank isn't open yet.
 
 ## Vocabulary
 

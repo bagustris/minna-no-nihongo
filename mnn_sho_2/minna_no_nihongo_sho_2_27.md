@@ -3,9 +3,64 @@ title: "Lesson 27"
 order: 27
 ---
 
-# 
+# Potential Form (Ability)
 
 ## Grammar
+
+1. **Use case:** Introduce the potential form, expressing what someone can do (Group 1: u→e column+ます; Group 2: ます→られます; Group 3: きます→こられます, します→できます).
+   **Pattern:** V（可能形）
+   - Example:
+     - 書きます → 書けます
+     - かきます → かけます
+     - can write
+     - 食べます → 食べられます
+     - たべます → たべられます
+     - can eat
+
+2. **Use case:** State an ability or something that can be done under given circumstances; note the object particle を changes to が.
+   **Pattern:** N（object）が V（可能形）
+   - Example:
+     - この銀行でドルが替えられます。
+     - このぎんこうでドルがかえられます。
+     - You can exchange dollars at this bank.
+
+3. **Use case:** Describe something visible or audible that is perceived without deliberate effort.
+   **Pattern:** Nが 見えます／聞こえます
+   - Example:
+     - 部屋から山が見えます。
+     - へやからやまがみえます。
+     - I can see the mountain from my room.
+     - 車の音が聞こえます。
+     - くるまのおとがきこえます。
+     - I can hear the sound of a car.
+
+4. **Use case:** State that a task or object has been completed/finished being made.
+   **Pattern:** Nが できました
+   - Example:
+     - 宿題ができました。
+     - しゅくだいができました。
+     - I have finished my homework.
+
+5. **Use case:** Contrast two items by marking each with は instead of を or が.
+   **Pattern:** N1は V1が、N2は V2
+   - Example:
+     - ワインは飲みますが、ビールは飲みません。
+     - ワインはのみますが、ビールはのみません。
+     - I drink wine, but I don't drink beer.
+
+6. **Use case:** Add an item with the same property, replacing を or が (and optionally following へ).
+   **Pattern:** N も
+   - Example:
+     - メキシコへも行きました。
+     - メキシコへもいきました。
+     - I also went to Mexico.
+
+7. **Use case:** Express exclusivity — "only," requiring a negative verb (unlike だけ).
+   **Pattern:** N しか＋V（ない形）
+   - Example:
+     - 15分しか休みません。
+     - じゅうごふんしかやすみません。
+     - I only rest for 15 minutes.
 
 ## Vocabulary
 

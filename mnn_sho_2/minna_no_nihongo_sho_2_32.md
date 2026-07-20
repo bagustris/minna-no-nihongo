@@ -3,9 +3,50 @@ title: "Lesson 32"
 order: 32
 ---
 
-# 
+# Advice and Conjecture (でしょう／かもしれません)
 
 ## Grammar
+
+1. **Use case:** Give advice recommending or discouraging an action.
+   **Pattern:** V（た形）ほうがいいです／V（ない形）ほうがいいです
+   - Example:
+     - 毎日運動したほうがいいです。
+     - まいにちうんどうしたほうがいいです。
+     - You should exercise every day.
+     - お風呂に入らないほうがいいです。
+     - おふろにはいらないほうがいいです。
+     - You'd better not take a bath.
+
+2. **Use case:** State the speaker's inference based on some information, with reasonable confidence.
+   **Pattern:** 普通形＋でしょう
+   - Example:
+     - 明日は雨が降るでしょう。
+     - あしたはあめがふるでしょう。
+     - It will probably rain tomorrow.
+
+3. **Use case:** Express a guess with less than 50% certainty.
+   **Pattern:** 普通形＋かもしれません
+   - Example:
+     - 午後も雪が降るかもしれません。
+     - ごごもゆきがふるかもしれません。
+     - It might snow in the afternoon too.
+
+4. **Use case:** Modify degree of certainty with adverbs: きっと (high certainty), たぶん (fairly confident, often with でしょう), もしかしたら (low certainty, with かもしれません).
+   **Pattern:** きっと／たぶん／もしかしたら＋でしょう／かもしれません
+   - Example:
+     - たぶん晴れるでしょう。
+     - たぶんはれるでしょう。
+     - It will probably be sunny.
+     - もしかしたら遅れるかもしれません。
+     - もしかしたらおくれるかもしれません。
+     - I might possibly be late.
+
+5. **Use case:** State a required amount (time, money, quantity) as a limit for something to happen.
+   **Pattern:** 数量＋で
+   - Example:
+     - 一時間で行けます。
+     - いちじかんでいけます。
+     - I can get there within an hour.
 
 ## Vocabulary
 

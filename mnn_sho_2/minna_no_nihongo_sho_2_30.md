@@ -3,9 +3,51 @@ title: "Lesson 30"
 order: 30
 ---
 
-# 
+# てあります／ておきます (Prepared States)
 
 ## Grammar
+
+1. **Use case:** Describe a state that exists because someone intentionally performed an action (transitive verb), with focus on the resulting state rather than the action itself.
+   **Pattern:** V（他動詞・て形）あります
+   - Example:
+     - 壁に鏡がかけてあります。
+     - かべにかがみがかけてあります。
+     - A mirror has been hung on the wall (and is there now).
+
+2. **Use case:** Specify where a prepared object is, and what is written/placed there.
+   **Pattern:** N1に N2が V（て形）あります
+   - Example:
+     - カレンダーに今週の予定が書いてあります。
+     - カレンダーにこんしゅうのよていがかいてあります。
+     - This week's schedule is written on the calendar.
+
+3. **Use case:** State that something has already been prepared or announced for someone, often with もう.
+   **Pattern:** N2は N1に V（て形）あります
+   - Example:
+     - 会議室の時間はもう皆さんに知らせてあります。
+     - かいぎしつのじかんはもうみなさんにしらせてあります。
+     - The meeting room time has already been announced to everyone.
+
+4. **Use case:** Describe an action done in advance as preparation, or as a temporary/stopgap measure.
+   **Pattern:** V（て形）おきます
+   - Example:
+     - 旅行のまえにホテルを予約しておきます。
+     - りょこうのまえにホテルをよやくしておきます。
+     - I'll book a hotel before the trip (as preparation).
+
+5. **Use case:** State that a situation is still ongoing / unchanged.
+   **Pattern:** まだ＋V（present, affirmative)
+   - Example:
+     - まだ降っていますか。ええ、まだ降っています。
+     - まだふっていますか。ええ、まだふっています。
+     - Is it still raining? Yes, it's still raining.
+
+6. **Use case:** Refer back to what the conversation partner just said, showing agreement or reaction.
+   **Pattern:** それは＋Adj／それは いいですね
+   - Example:
+     - それはいいですね。
+     - それはいいですね。
+     - That's nice.
 
 ## Vocabulary
 

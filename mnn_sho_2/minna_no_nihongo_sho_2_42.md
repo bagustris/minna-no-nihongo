@@ -5,42 +5,58 @@ order: 42
 
 # ために、のに、に
 
-## Key Grammar Points:  
-1. Patterns using ～ために and ～のために is to indicate purpose.  
-    
-    1. V [dictionary form] ～ために (for the purpose of ~; in order to ~). Example:  
-    勉強するために図書館へ行きます。  
-    I go to the library in order to study.
-    
-    2. N のために (for the sake of ~; for ~)
-    Example:  
-    子どもたちのために働きます。  
-    I work for the sake of my children.
+## Grammar
 
-2. Pattern using ～のに is also to indicate purpose, but it is used with certain words like 使います (use), 必要です (need), いいです (it is good), 役に立つ (be useful), かかる (take [time/money]), etc.
+1. **Use case:** State the purpose of an action or of a whole effort ("in order to", "for the sake of").
+   **Pattern:** V（辞書形）ために／N の ために
+   - Example:
+     - 勉強するために図書館へ行きます。
+     - べんきょうするためにとしょかんへいきます。
+     - I go to the library in order to study.
+     - 子どもたちのために働きます。
+     - こどもたちのためにはたらきます。
+     - I work for the sake of my children.
 
-    1. V [dictionary form] ～のに (in order to ~; for ~)
-    Example:  
-    早く起きるのに目覚まし時計を使います。  
-    I use an alarm clock in order to wake up early.
+2. **Use case:** State the purpose for which a tool or thing is used, with certain verbs/adjectives like 使います、必要です、いいです、役に立ちます、かかります.
+   **Pattern:** V（辞書形）のに／N に
+   - Example:
+     - 早く起きるのに目覚まし時計を使います。
+     - はやくおきるのにめざましどけいをつかいます。
+     - I use an alarm clock in order to wake up early.
+     - 日本語を勉強するのに辞書が必要です。
+     - にほんごをべんきょうするのにじしょがひつようです。
+     - A dictionary is necessary for studying Japanese.
+     - このはさみは花を切るのに使います。
+     - このはさみははなをきるのにつかいます。
+     - These scissors are used for cutting flowers.
 
-    2. N のに (for ~)
-    Example:  
-    日本語を勉強するのに辞書が必要です。  
-    A dictionary is necessary for studying Japanese.
+3. **Use case:** Express going/coming/returning somewhere in order to do something (purpose of movement).
+   **Pattern:** N（場所）へ N／V（ます形の語幹）に 行きます／来ます／帰ります
+   - Example:
+     - わたしは日本へ日本語を勉強しに行きたいです。
+     - わたしはにほんへにほんごをべんきょうしにいきたいです。
+     - I want to go to Japan to study Japanese.
 
-3. Particle は indicates minimum amount of something, or the extent to which something is true. It is often used with words like 〜だけ (only), 〜くらい/ぐらい (about; approximately), 〜でも (even), etc.
+4. **Use case:** Express a purpose or intention that requires the negative volitional-style pattern (to avoid an undesired outcome).
+   **Pattern:** V（辞書形／ない形）ように、〜
+   - Example:
+     - 風邪をひかないように、セーターを着ます。
+     - かぜをひかないように、セーターをきます。
+     - I wear a sweater so I won't catch a cold.
 
-    Example:  
-    一日一回は運動します。  
-    I exercise at least once a day.
+5. **Use case:** Mark a minimum amount or extent, often paired with だけ／くらい・ぐらい／でも.
+   **Pattern:** 数量＋は
+   - Example:
+     - 一日一回は運動します。
+     - いちにちいっかいはうんどうします。
+     - I exercise at least once a day.
 
-4. Particle も indicates amount that is large (compared to normal). It can be used to add emphasis to a statement.
-
-    Example:  
-    一日3回も運動します。  
-    I exercise three times a day.
-        
+6. **Use case:** Emphasize that an amount is large compared to what is normal or expected.
+   **Pattern:** 数量＋も
+   - Example:
+     - 一日三回も運動します。
+     - いちにちさんかいもうんどうします。
+     - I exercise as many as three times a day.
 
 
 ## Vocabulary

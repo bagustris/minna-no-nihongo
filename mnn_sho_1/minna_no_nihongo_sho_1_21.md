@@ -3,9 +3,58 @@ title: "Lesson 21"
 order: 21
 ---
 
-# 
+# と思います／と言います
 
 ## Grammar
+
+1. **Use case:** State the speaker's judgment, opinion, or belief.
+   **Pattern:** 普通形＋と思います
+   - Example:
+     - 明日雨が降ると思います。
+     - あしたあめがふるとおもいます。
+     - I think it will rain tomorrow.
+
+2. **Use case:** Report what someone says or said, quoting directly or indirectly.
+   **Pattern:** 「引用」／普通形＋と言います
+   - Example:
+     - 寝るまえに「おやすみなさい」と言います。
+     - ねるまえに「おやすみなさい」といいます。
+     - We say "goodnight" before going to sleep.
+
+3. **Use case:** Seek the listener's confirmation or agreement about something both parties already know.
+   **Pattern:** 普通形＋でしょう
+   - Example:
+     - 日曜日映画を見に行くでしょう。
+     - にちようびえいがをみにいくでしょう。
+     - You're going to watch a movie on Sunday, right?
+
+4. **Use case:** State that an event/occasion takes place at a given location.
+   **Pattern:** N1（場所）で N2が あります
+   - Example:
+     - 明日、雪ちゃんのうちでパーティーがあります。
+     - あした、ゆきちゃんのうちでパーティーがあります。
+     - There is a party at Yuki's place tomorrow.
+
+5. **Use case:** Mark the event/situation in which something happens.
+   **Pattern:** N（出来事）で、〜
+   - Example:
+     - 会議室で何か意見を言いましたか。
+     - かいぎしつでなにかいけんをいいましたか。
+     - Did you say any opinion during the meeting?
+
+6. **Use case:** Suggest an item as one representative example from a category, softening the suggestion.
+   **Pattern:** N でも V
+   - Example:
+     - ちょっとビールでも飲みませんか。
+     - ちょっとビールでものみませんか。
+     - Would you like some beer or something?
+
+7. **Use case:** Express that something must be done, in casual speech (an abbreviated ない form + と).
+   **Pattern:** V（ない形）と
+   - Example:
+     - もう帰らないと。
+     - もうかえらないと。
+     - I have to go home now.
 
 ## Vocabulary
 

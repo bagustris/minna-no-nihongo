@@ -3,9 +3,51 @@ title: "Lesson 26"
 order: 26
 ---
 
-# 
+# 〜んです (Explanation)
 
 ## Grammar
+
+1. **Use case:** Provide background explanation or reason for a visible situation or a statement already made.
+   **Pattern:** 普通形＋んです
+   - Example:
+     - 顔色が悪いですね。ええ、頭が痛いんです。
+     - かおいろがわるいですね。ええ、あたまがいたいんです。
+     - You look pale. Yes, I have a headache (that's why).
+
+2. **Use case:** Ask about the reason behind an observed situation, or request more detail.
+   **Pattern:** 普通形＋んですか
+   - Example:
+     - 大阪に住んでいたんですか。
+     - おおさかにすんでいたんですか。
+     - (So) you used to live in Osaka?
+
+3. **Use case:** Give a reason for something that already happened, explaining rather than simply stating a fact.
+   **Pattern:** 普通形（た形）＋んです
+   - Example:
+     - すみません、遅れました。バスが来なかったんです。
+     - すみません、おくれました。バスがこなかったんです。
+     - Sorry I'm late. The bus didn't come (that's why).
+
+4. **Use case:** Open a topic with background context before making a hesitant request, offer, or question.
+   **Pattern:** 普通形＋んですが、〜
+   - Example:
+     - 手紙を書いたんですが、ちょっと見ていただけませんか。
+     - てがみをかいたんですが、ちょっとみていただけませんか。
+     - I wrote a letter — could you take a look at it for me?
+
+5. **Use case:** Make a very polite request, higher in courtesy than 〜てください.
+   **Pattern:** V（て形）いただけませんか
+   - Example:
+     - 漢字の読み方を教えていただけませんか。
+     - かんじのよみかたをおしえていただけませんか。
+     - Could you teach me how to read this kanji?
+
+6. **Use case:** Ask for advice on the appropriate action to take.
+   **Pattern:** 疑問詞＋V（た形）ら いいですか
+   - Example:
+     - どうしたらいいですか。
+     - どうしたらいいですか。
+     - What should I do?
 
 ## Vocabulary
 

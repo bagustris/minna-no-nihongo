@@ -3,9 +3,37 @@ title: "Lesson 39"
 order: 39
 ---
 
-# 
+# て／ので (Cause and Reason)
 
 ## Grammar
+
+1. **Use case:** Connect a cause/reason clause to its result, where the first clause is not a deliberate action (V: て形／ない形→なくて; い-adj: くて; な-adj: で; N: で).
+   **Pattern:** 原因・理由（て形）、結果
+   - Example:
+     - ニュースを聞いて、びっくりしました。
+     - ニュースをきいて、びっくりしました。
+     - I was surprised to hear the news.
+
+2. **Use case:** Attribute a result to a natural event or phenomenon (accidents, weather, disasters) — cannot be used for deliberate intentions.
+   **Pattern:** N（自然現象・出来事）で、結果
+   - Example:
+     - 雪で新幹線が遅れました。
+     - ゆきでしんかんせんがおくれました。
+     - The Shinkansen was delayed because of snow.
+
+3. **Use case:** State a cause/reason more objectively than から, presenting it as a natural progression; avoid using with commands or prohibitions.
+   **Pattern:** 普通形（な形／N＋な→だ）＋ので、結果
+   - Example:
+     - 気分が悪いので、お先に帰ってもいいですか。
+     - きぶんがわるいので、おさきにかえってもいいですか。
+     - I'm not feeling well, so may I leave early?
+
+4. **Use case:** Describe something that happens partway through an ongoing action or process ("on the way").
+   **Pattern:** N の／V（辞書形・た形）とちゅうで、〜
+   - Example:
+     - マラソンのとちゅうで気分が悪くなりました。
+     - マラソンのとちゅうできぶんがわるくなりました。
+     - I started to feel unwell partway through the marathon.
 
 ## Vocabulary
 

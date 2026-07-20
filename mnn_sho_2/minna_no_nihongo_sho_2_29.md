@@ -3,9 +3,58 @@ title: "Lesson 29"
 order: 29
 ---
 
-# 
+# ています (Resultant State)
 
 ## Grammar
+
+1. **Use case:** Describe a state that exists as the result of a (usually unintentional or unspecified-agent) past action, using an intransitive verb.
+   **Pattern:** V（自動詞・て形）います
+   - Example:
+     - 窓が閉まっています。
+     - まどがしまっています。
+     - The window is closed.
+
+2. **Use case:** Describe an observable current condition, marking the subject with が (new information, not yet topicalized).
+   **Pattern:** Nが V（自動詞・て形）います
+   - Example:
+     - いすが壊れています。
+     - いすがこわれています。
+     - The chair is broken.
+
+3. **Use case:** Topicalize the subject with は — often with こ/そ/あ demonstratives — when referring back to something already known.
+   **Pattern:** Nは V（自動詞・て形）います
+   - Example:
+     - このいすは壊れています。
+     - このいすはこわれています。
+     - This chair is broken.
+
+4. **Use case:** Emphasize that an action has been completed entirely, often by a deadline.
+   **Pattern:** V（て形）しまいます／しまいました
+   - Example:
+     - 明日までにレポートを書いてしまいます。
+     - あしたまでにレポートをかいてしまいます。
+     - I will finish writing the report by tomorrow.
+
+5. **Use case:** Express regret or dismay over a completed, often unwanted, action or event.
+   **Pattern:** V（て形）しまいました
+   - Example:
+     - パスポートをなくしてしまいました。
+     - パスポートをなくしてしまいました。
+     - I lost my passport (unfortunately).
+
+6. **Use case:** Announce that the speaker has found something being searched for.
+   **Pattern:** ありました
+   - Example:
+     - かばんがありましたよ。
+     - かばんがありましたよ。
+     - I found the bag!
+
+7. **Use case:** Refer to an unspecified place; unlike へ／を with どこか, the particles で and に cannot be dropped.
+   **Pattern:** どこかで／どこかに
+   - Example:
+     - どこかで財布をなくしました。
+     - どこかでさいふをなくしました。
+     - I lost my wallet somewhere.
 
 ## Vocabulary
 

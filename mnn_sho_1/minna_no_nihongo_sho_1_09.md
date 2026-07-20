@@ -3,9 +3,62 @@ title: "Lesson 9"
 order: 9
 ---
 
-# 
+# が (object marker with わかります／あります／すき／じょうず) and 〜から
 
 ## Grammar
+
+1. Nが わかります (to understand N)
+   The object of わかります is marked with が, not を.
+   - Example:
+     - わたしは日本語がわかります。
+     - わたしはにほんごがわかります。
+     - I understand Japanese.
+     - ミラーさんは中国語がわかりません。
+     - ミラーさんはちゅうごくごがわかりません。
+     - Mr. Miller doesn't understand Chinese.
+
+2. Nが あります (to have N)
+   Used for possession (not existence of a thing in a place). The object possessed is marked with が.
+   - Example:
+     - わたしは車があります。
+     - わたしはくるまがあります。
+     - I have a car.
+     - 今晩約束があります。
+     - こんばんやくそくがあります。
+     - I have an appointment tonight.
+
+3. Nが 好きです／嫌いです／上手です／下手です
+   好き(な)、嫌い(な)、上手(な)、下手(な) are な-adjectives. The thing liked/disliked/skilled at is marked with が.
+   - Example:
+     - わたしは音楽が好きです。
+     - わたしはおんがくがすきです。
+     - I like music.
+     - サントスさんはダンスが上手です。
+     - サントスさんはダンスがじょうずです。
+     - Mr. Santos is good at dancing.
+     - わたしは料理が下手です。
+     - わたしはりょうりがへたです。
+     - I am poor at cooking.
+
+4. Adverbs of degree/frequency: よく／だいたい／たくさん／少し／全然
+   These adverbs are placed before the verb (or before が/を + verb) to express degree or frequency. 全然 is always used with a negative form.
+   - Example:
+     - わたしはよく音楽を聞きます。
+     - わたしはよくおんがくをききます。
+     - I often listen to music.
+     - わたしはお酒が全然飲めません。
+     - わたしはおさけがぜんぜんのめません。
+     - I cannot drink alcohol at all.
+
+5. 文1から、文2 (reason, から)
+   から is attached to the end of the reason sentence (before です／ます form), followed by the result sentence. In conversation, から alone (with the reason omitted context) can also be used as a short answer to どうしてですか。
+   - Example:
+     - 時間がありませんから、新聞を読みません。
+     - じかんがありませんから、しんぶんをよみません。
+     - Because I don't have time, I don't read the newspaper.
+     - どうしてパーティーに来ませんでしたか。用事がありましたから。
+     - どうしてパーティーにきませんでしたか。ようじがありましたから。
+     - Why didn't you come to the party? Because I had something to do.
 
 ## Vocabulary
 
