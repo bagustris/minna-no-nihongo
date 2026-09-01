@@ -90,7 +90,7 @@ order: 9
 | 漢字 | かんじ | Chinese characters |
 | ひらがな | ひらがな | Hiragana script |
 | かたかな | かたかな | Katakana script |
-| ローマ字 | ローマじ | the Roman alpahabet |
+| ローマ字 | ローマじ | the Roman alphabet |
 | 細かいお金 | こまかいおかね | small change |
 | チケット | チケット | ticket |
 | 時間 | じかん | time |

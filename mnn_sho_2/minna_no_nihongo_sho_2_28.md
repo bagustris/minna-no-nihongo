@@ -53,7 +53,7 @@ order: 28
 | 違います | ちがいます | be different |
 | 通います | かよいます | go to and from |
 | 大学に通います | だいがくにかよいます | to go to and from university |
-| メモします | メモします | take a memo |
+| メモします | メモします | take notes |
 | まじめ | まじめ | serious |
 | 熱心 | ねっしん | earnest |
 | 優しい | やさしい | gentle, kind |
@@ -86,7 +86,7 @@ order: 28
 | しばらく | しばらく | a little while |
 | たいてい | たいてい | usually, mostly |
 | それで | それで | and so |
-| ちょっとを願いあるんですが | ちょっとを願いあるんですが | I have a favor to ask |
+| ちょっとお願いがあるんですが | ちょっとおねがいがあるんですが | I have a favor to ask |
 | ホームステイ | ホームステイ | homestay |
 | 会話 | かいわ | conversation |
 | おしゃべりします | おしゃべりします | chat |

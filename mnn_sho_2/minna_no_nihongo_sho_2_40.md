@@ -86,7 +86,7 @@ order: 40
 | 到着します | とうちゃくします | arrive |
 | 酔います | よいます | get drunk |
 | 危険 | きけん | dangerous |
-| 必要 | ひつよう | neccesary |
+| 必要 | ひつよう | necessary |
 | 宇宙 | うちゅう | space, universe |
 | 地球 | ちきゅう | earth |
 | 忘年会 | ぼうねんかい | year end party |
@@ -136,7 +136,7 @@ order: 40
 | 運転手 | うんてんしゅ | driver |
 | 離れた | はなれた | remote |
 | が | が | but |
-| 急に | きゅうに | suddendly |
+| 急に | きゅうに | suddenly |
 | 動かします | うごかします | start, operate, move |
 | 犯人 | はんにん | suspect, criminal |
 | 手に入れます | てにいれます | obtain, get |

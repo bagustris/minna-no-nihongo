@@ -62,7 +62,7 @@ order: 17
 | 返します | かえします | give back, return |
 | 出かけます | でかけます | go out |
 | 脱ぎます | ぬぎます | take off (clothes, shoes, etc.) |
-| 持って行ます | もっていきます | take (something) |
+| 持って行きます | もっていきます | take (something) |
 | 持って来ます | もってきます | bring (something) |
 | 心配します | しんぱいします | worry |
 | 残業します | ざんぎょうします | work overtime |

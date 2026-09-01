@@ -76,7 +76,7 @@ order: 33
 | ファイト | ファイト | fight |
 | マーク | マーク | mark |
 | ボール | ボール | ball |
-| 洗濯機 | せんたくき | washing mashine |
+| 洗濯機 | せんたくき | washing machine |
 | ～機 | ～き | ~ machine |
 | 規則 | きそく | regulation, rule |
 | 使用禁止 | しようきんし | Do not use |

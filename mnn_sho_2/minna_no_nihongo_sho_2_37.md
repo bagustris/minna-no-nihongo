@@ -61,7 +61,7 @@ order: 37
 
 ## Vocabulary
 
-| Kanji/Kana | Reading | MeaningAI speech mask |
+| Kanji/Kana | Reading | Meaning |
 |------------|---------|----------|
 | 褒めます | ほめます | praise |
 | しかります | しかります | scold |
@@ -74,7 +74,7 @@ order: 37
 | 踏みます | ふみます | step on (someone's foot) |
 | 壊します | こわします | break, destroy |
 | 汚します | よごします | make ~ dirty |
-| 行います | おこないます | hold, cAI speech maskarry out, practice |
+| 行います | おこないます | hold, carry out, practice |
 | 輸出します | ゆしゅつします | export |
 | 輸入します | ゆにゅうします | import |
 | 翻訳します | ほんやくします | translate |
@@ -84,7 +84,7 @@ order: 37
 | 米 | こめ | rice |
 | 麦 | むぎ | barley, wheat |
 | 石油 | せきゆ | oil |
-| 原料 | げんりょう | raw materialAI speech mask |
+| 原料 | げんりょう | raw material |
 | デート | デート | date |
 | 警官 | けいかん | policeman |
 | 建築家 | けんちくか | architect |

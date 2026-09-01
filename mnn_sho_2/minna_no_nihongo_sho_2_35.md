@@ -61,7 +61,7 @@ order: 35
 | 楽 | らく | comfortable, easy |
 | 正しい | ただしい | correct, right |
 | 珍しい | めずらしい | rare, uncommon |
-| 方 | かた | person (respectfull of "hito") |
+| 方 | かた | person (respectful form of "hito") |
 | 向こう | むこう | over there, the other side |
 | 島 | しま | island |
 | 村 | むら | village |
@@ -95,4 +95,4 @@ order: 35
 | 交わります | まじわります | keep company with |
 | ことわざ | ことわざ | proverb |
 | 仲よくします | なかよくします | be on good terms with |
-| 必要 | ひつよう | neccessary, essential |
+| 必要 | ひつよう | necessary, essential |

@@ -60,7 +60,7 @@ order: 45
 
 
 > Note:       
-> The different between 〜のに and 〜が/でも　is that 〜のに emphasizes the contrast between the two clauses, while 〜が/でも simply presents two contrasting ideas without emphasizing the unexpected nature of the second clause.     
+> The difference between 〜のに and 〜が/でも is that 〜のに emphasizes the contrast between the two clauses, while 〜が/でも simply presents two contrasting ideas without emphasizing the unexpected nature of the second clause.
 
 
 ## Vocabulary
@@ -81,7 +81,7 @@ order: 45
 | 間違い電話 | まちがいでんわ | wrong (telephone) number |
 | キャンプ | キャンプ | camp |
 | 係 | かかり | person in charge |
-| 中止 | ちゅうし | calling of, cancelling, suspension |
+| 中止 | ちゅうし | calling off, cancelling, suspension |
 | 点 | てん | point, score |
 | レバー | レバー | lever |
 | ～円札 | ～えんさつ | ~ yen note, bill |

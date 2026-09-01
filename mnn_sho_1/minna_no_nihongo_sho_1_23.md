@@ -48,7 +48,7 @@ order: 23
 | 引きます | ひきます | pull |
 | 変えます | かえます | change |
 | 触ります | さわります | touch |
-| アに触ります | ドアにさわります | touch a door |
+| ドアに触ります | ドアにさわります | touch a door |
 | 出ます | でます | come out |
 | お釣りが出ます | おつりがでます | change comes out |
 | 動きます | うごきます | move, work |

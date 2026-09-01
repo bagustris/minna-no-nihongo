@@ -75,7 +75,7 @@ order: 27
 | 見えます | みえます | can be seen |
 | 山が見えます | やまがみえます | a mountain can be seen |
 | 聞こえます | きこえます | can be heard |
-| 音が聞こます | おとがきこえます | a sound can be heard |
+| 音が聞こえます | おとがきこえます | a sound can be heard |
 | できます | できます | can be made, be completed, come into existence |
 | 空港ができます | くうこうができます | an airport can be made |
 | 開きます | ひらきます | set up, open, hold |
@@ -102,7 +102,7 @@ order: 27
 | はっきり | はっきり | clearly |
 | ほとんど | ほとんど | almost all (in positive sentences), hardly, scarcely (in negative sentences) |
 | 関西空港 | かんさいくうこう | Kansai Airport |
-| 秋葉原 | あきはばら | name of a shopping district with many electrical and electronical stores |
+| 秋葉原 | あきはばら | name of a shopping district with many electrical and electronic stores |
 | 伊豆 | いず | peninsula in Shizuoka Prefecture |
 | 日曜大工 | にちようだいく | Sunday carpenter , do it yourself-er |
 | 本棚 | ほんだな | bookshelf |

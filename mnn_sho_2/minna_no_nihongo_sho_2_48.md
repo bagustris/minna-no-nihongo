@@ -61,13 +61,13 @@
 | 嫌 | いや | unwilling, reluctant |
 | 厳しい | きびしい | strict, hard |
 | 塾 | じゅく | cram school |
-| スケシュール | スケシュール | schedule |
+| スケジュール | スケジュール | schedule |
 | 生徒 | せいと | pupil |
 | 者 | もの | person (referring to one's relatives or subordinates) |
 | 入管 | にゅうかん | Immigration Bureau |
 | 再入国ビザ | さいにゅうこくビザ | re-entry visa |
 | 自由に | じゆうに | freely |
-| ～間 | ～かん | for ~ (refering to duration) |
+| ～間 | ～かん | for ~ (referring to duration) |
 | いいことですね | いいことですね | That's good |
 | お忙しいですか | おいそがしいですか | Are you busy? (used when talking to someone senior or older) |
 | 久しぶり | ひさしぶり | after a long time |

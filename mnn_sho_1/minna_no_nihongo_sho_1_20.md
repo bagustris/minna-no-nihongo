@@ -44,7 +44,7 @@ order: 20
 | 直します | なおします | repair, correct |
 | 修理します | しゅうりします | repair |
 | 電話します | でんわします | to phone |
-| 僕 | ぼく | I (an infomal equivalent of watshi used by men) |
+| 僕 | ぼく | I (an informal equivalent of watashi used by men) |
 | 君 | きみ | you (an informal equivalent of anata used by men) |
 | ～君 | ～くん | Mr. (an informal equivalent of ~san used by men) |
 | うん | うん | yes (an informal equivalent of hai) |
@@ -62,7 +62,7 @@ order: 20
 | どっち | どっち | which one (between two things), which way, where (an informal equivalent of dochira) |
 | あの間 | あのあいだ | the other day |
 | みんなで | みんなで | all together |
-| ～けど | ～けど ~ | but (an infomal equivalent of ga) |
+| ～けど | ～けど ~ | but (an informal equivalent of が) |
 | 国へ帰るの | くにへかえるの | Are you going back to your country? |
 | どうするの | どうするの | What will you do? |
 | どうしようかな | どうしようかな | What shall I do? |

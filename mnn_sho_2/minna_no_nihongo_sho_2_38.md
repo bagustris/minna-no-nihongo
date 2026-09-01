@@ -60,7 +60,7 @@ order: 38
 | 書類 | しょるい | documents, paper |
 | 電源 | でんげん | power switch |
 | ～製 | ～せい | made in ~ |
-| いけない | いけない | Ooops! Oh, no! (used when one has made a mistake) |
+| いけない | いけない | Oops! Oh, no! (used when one has made a mistake) |
 | お先に | おさきに | Excuse me (for leaving before you) |
 | 原爆ドーム | げんばくドーム | dome commemorating the atomic bombing of Hiroshima |
 | 回覧 | かいらん | circular, sending round |

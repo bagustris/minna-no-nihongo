@@ -57,7 +57,7 @@ I gave a watch as a gift for a celebration.
 | お祝い | おいわい | celebration, gift |
 | お祝いをします | おいわいをします | celebrate |
 | お年玉 | おとしだま | money given as New Year's gift |
-| お見舞い | おみまい | expression of symphaty, consolatory gift to a sick person |
+| お見舞い | おみまい | expression of sympathy, consolatory gift to a sick person |
 | 興味 | きょうみ | interest |
 | 情報 | じょうほう | information |
 | 文法 | ぶんぽう | grammar |
@@ -95,7 +95,7 @@ I gave a watch as a gift for a celebration.
 | 助けます | たすけます | save, help |
 | 城 | しろ | castle |
 | お姫様 | おひめさま | princess |
-| 楽しく | たのしく | happily, merily |
+| 楽しく | たのしく | happily, merrily |
 | 暮らします | くらします | live, lead a life |
 | 陸 | りく | land, shore |
 | すると | すると | and, then |

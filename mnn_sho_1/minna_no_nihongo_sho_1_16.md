@@ -104,7 +104,7 @@ order: 16
 | どうやって | どうやって | in what way, how |
 | どの～ | どの～ | which ~ (used for three or more) |
 | いいえまだまだです | いいえまだまだです | No, I still have a long way to go |
-| お引き出しですか | おひきだしですか | Are you making a withdrawl? |
+| お引き出しですか | おひきだしですか | Are you making a withdrawal? |
 | まず | まず | first of all |
 | キャッシュカード | キャッシュカード | cash dispensing card |
 | 暗証番号 | あんしょうばんごう | personal identification number, PIN |

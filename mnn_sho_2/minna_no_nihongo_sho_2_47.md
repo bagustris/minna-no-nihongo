@@ -95,7 +95,7 @@
 | イラン | イラン | Iran |
 | カリフォルニア | カリフォルニア | California |
 | グアム | グアム | Guam |
-| 恋人 | こいびと | sweatheart, boyfriend, girlfriend |
+| 恋人 | こいびと | sweetheart, boyfriend, girlfriend |
 | 婚約します | こんやくします | get engaged |
 | 相手 | あいて | the other person |
 | 知り合います | しりあいます | get acquainted |

@@ -69,6 +69,6 @@ order: 22
 | ダイニングキチン | ダイニングキチン | kitchen with a dining area |
 | 和室 | わしつ | Japanese-style room |
 | 押し入れ | おしいれ | Japanese-style closet |
-| 布団 | ふとん | Japanese-style matress and quilt |
+| 布団 | ふとん | Japanese-style mattress and quilt |
 | アパート | アパート | apartment |
 | パリ | パリ | Paris |

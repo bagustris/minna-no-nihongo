@@ -130,7 +130,7 @@
 | 拝啓 | はいけい | Dear ~ |
 | 美しい | うつくしい | beautiful |
 | お元気でいらっしゃいますか | おげんきでいらっしゃいますか | How are you doing? (respectful) |
-| 迷惑をかけます | めいわくをかけます | trouble, annoy, inconveniece |
+| 迷惑をかけます | めいわくをかけます | trouble, annoy, inconvenience |
 | 生かします | いかします | make good use of |
 | お城 | おしろ | castle |
 | 敬具 | けいぐ | Sincerely yours |

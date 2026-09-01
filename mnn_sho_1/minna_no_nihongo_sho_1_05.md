@@ -50,7 +50,7 @@ order: 5
 
 | Kanji/Kana | Reading | Meaning |
 |------------|---------|----------|
-| 行ます | いきます | go |
+| 行きます | いきます | go |
 | 帰ります | かえります | go home, return |
 | 学校 | がっこう | school |
 | スーパー | スーパー | supermarket |
@@ -87,7 +87,7 @@ order: 5
 | 五日 | いつか | fifth, five days |
 | 六日 | むいか | sixth, six days |
 | 七日 | なのか | seventh, seven days |
-| 八日 | ようか | eigth, eight days |
+| 八日 | ようか | eighth, eight days |
 | 九日 | ここのか | ninth, nine days |
 | 十日 | とおか | tenth, ten days |
 | 十四日 | じゅうよっか | fourteenth, fourteen days |

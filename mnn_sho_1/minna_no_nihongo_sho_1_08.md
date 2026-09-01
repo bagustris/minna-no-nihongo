@@ -32,7 +32,7 @@ order: 8
    | い-adj (〜い) です |
 
 3. ~が、〜  
-   Particle が　is used to connet antithetical relationsip.  
+   Particle が is used to connect antithetical relationships.
 
 4. とても/あまり　are used for affirmative (agreement). とても is for positive, while あまり is for negative.
    - Example:

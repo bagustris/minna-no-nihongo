@@ -106,7 +106,7 @@ order: 39
 | 汚い | きたない | dirty |
 | うれしい | うれしい | happy |
 | 悲しい | かなしい | sad |
-| 恥ずかしい | はずかしい | embarrased, ashamed |
+| 恥ずかしい | はずかしい | embarrassed, ashamed |
 | 地震 | じしん | earthquake |
 | 台風 | たいふう | typhoon |
 | 火事 | かじ | fire |

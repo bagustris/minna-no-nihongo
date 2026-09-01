@@ -59,7 +59,7 @@ order: 43
 | とれます | とれます | come off |
 | ボタンがとれます | ボタンがとれます | a button comes off |
 | 落ちます | おちます | fall down |
-| 荷物が落ちます | にもつがおちます | bagage falls down |
+| 荷物が落ちます | にもつがおちます | baggage falls down |
 | なくなります | なくなります | run out, be lost |
 | ガソリンがなくなります | ガソリンがなくなります | petrol, gasoline run out, be lost |
 | 丈夫 | じょうぶ | strong, healthy |

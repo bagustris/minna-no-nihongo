@@ -84,7 +84,7 @@ order: 12
 | 試験 | しけん | examination |
 | すき焼き | すきやき | sukiyaki (beef and vegetables hot pot) |
 | 刺身 | さしみ | sashimi (sliced raw fish) |
-| すし | すし | sushi (vinagered rice topped with raw fish) |
+| すし | すし | sushi (vinegared rice topped with raw fish) |
 | てんぷら | てんぷら | tempura (seafood and vegetables deep fried in batter) |
 | 生け花 | いけばな | flower arrangement |
 | 生け花をします | いけばなをします | practice flower arrangement |

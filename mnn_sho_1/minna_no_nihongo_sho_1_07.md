@@ -46,7 +46,7 @@ order: 7
       I receive a book from my friend.  
 
 5. もう V しました  
-   もう　means already. Combined with しました at the end of setence indicate that action was comlete.  
+   もう means already. Combined with しました at the end of a sentence, it indicates that the action was complete.
    Example:  
    - バナナもお食べました  
    I already ate banana.
@@ -79,7 +79,7 @@ order: 7
 | フォーク | フォーク | fork |
 | はさみ | はさみ | scissors |
 | ファクス | ファクス | fax |
-| ワープロ | ワープロ | word procecessor |
+| ワープロ | ワープロ | word processor |
 | パソコン | パソコン | personal computer |
 | パンチ | パンチ | punch |
 | ホッチキス | ホッチキス | stapler |

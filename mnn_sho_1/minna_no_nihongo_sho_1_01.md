@@ -48,9 +48,9 @@ Mr. Tanaka is a teacher.
 |------------|---------|----------|
 | わたし | わたし | I |
 | わたしたち | わたしたち | we |
-| あなた | あんた | you |
+| あなた | あなた | you |
 | あの人 | あのひと | that person, he, she |
-| あの方 | あのかた | that person, he,she (more polite) |
+| あの方 | あのかた | that person, he, she (more polite) |
 | 皆さん | みなさん | ladies and gentlemen, all of you |
 | ～さん | ～さん | Mr. Ms. (title of respect added to a name) |
 | ～ちゃん | ～ちゃん | (suffix often added to a child's name) |

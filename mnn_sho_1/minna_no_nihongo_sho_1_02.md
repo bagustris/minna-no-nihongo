@@ -52,7 +52,7 @@ Example:
 コーヒーか紅茶か、どちらがいいですか。  
 Would you like coffee or tea?
 
-5. In this Lesson 2, The phrase N1のN2 is used as N1 explains or specifies N2 .  N1の N2 is also used to indicate possession, similar to the English "'s" or "of".  
+5. In this lesson, the phrase N1のN2 is used when N1 explains or specifies N2. N1のN2 is also used to indicate possession, similar to the English "'s" or "of".
 Example:  
 これは日本の車です。  
 This is a Japanese car.  
@@ -71,7 +71,7 @@ Example:
 お名前は何ですか。  　
 What is your name?  
 
-8. The phrase そうｄすか is used to express "I see" or "Is that so?" in response to new information.  
+8. The phrase そうですか is used to express "I see" or "Is that so?" in response to new information.
 Example:  
 A: 私は学生です。  
 B: そうですか。  
