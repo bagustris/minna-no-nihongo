@@ -15,13 +15,19 @@ order: 36
     Example:  
     漢字が読めるようになりました。
 
-3. Try to make habit.   
+3. Try to make habit: 〜ようにしてください。     
    Example:  
    できるだけ、１０時までに寝るようにしています。
 
 4. Ask to perform habit.  
     Example:  
     もっとご飯を食べるようにしてください。
+
+5. 〜とか: same as 〜や but more colloquial.  
+   It is used to mentions several items, but not limited to those items (unlike 〜と). Usually it used on every items (unlike 〜や).  
+    Example:  
+    本をよむとか、掃除とか、寝るとか、    　
+    Reading book, cleaning, sleeping...
 
 ## Vocabulary
 

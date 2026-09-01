@@ -20,7 +20,7 @@ order: 39
     - The second part (consequence) cannot express volition: expressing feeling, states, or situation in the past.  
       Example:  
       疲れて、寝ました。 (Correct)  
-      つかれて、ねました。  
+      つかれて、ねました。     〜て、〜で、〜ので、途中で
       疲れて、寝ましょう。 (Incorrect)  
       つかれて、ねましょう。  
       I was tired and slept.  
@@ -31,7 +31,7 @@ order: 39
       あめがふって、みちがぬれました。
       The rain fell, and the road got wet.  
 
-2. Particle で to indicate reason or cause.　　
+2. Particle で to indicate reason or cause.  
    Pattern:　
    
    N で | 〜
@@ -77,7 +77,7 @@ order: 39
    - 映画の途中で、電話がかかってきました。  
      えいがのとちゅうで、でんわがかかってきました。  
      A phone call came in during the movie.  
-   〜て、〜で、〜ので、途中で
+
 
 ## Vocabulary
 
