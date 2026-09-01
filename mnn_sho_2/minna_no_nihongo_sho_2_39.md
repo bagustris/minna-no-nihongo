@@ -3,37 +3,81 @@ title: "Lesson 39"
 order: 39
 ---
 
-# て／ので (Cause and Reason)
+# 〜て、〜で、〜ので、途中で
 
 ## Grammar
 
-1. **Use case:** Connect a cause/reason clause to its result, where the first clause is not a deliberate action (V: て形／ない形→なくて; い-adj: くて; な-adj: で; N: で).
-   **Pattern:** 原因・理由（て形）、結果
-   - Example:
-     - ニュースを聞いて、びっくりしました。
-     - ニュースをきいて、びっくりしました。
-     - I was surprised to hear the news.
 
-2. **Use case:** Attribute a result to a natural event or phenomenon (accidents, weather, disasters) — cannot be used for deliberate intentions.
-   **Pattern:** N（自然現象・出来事）で、結果
-   - Example:
-     - 雪で新幹線が遅れました。
-     - ゆきでしんかんせんがおくれました。
-     - The Shinkansen was delayed because of snow.
+1. Sentence to present cause (first part) and consequence (second part) resulted by the cause.  
+   Pattern:  
 
-3. **Use case:** State a cause/reason more objectively than から, presenting it as a natural progression; avoid using with commands or prohibitions.
-   **Pattern:** 普通形（な形／N＋な→だ）＋ので、結果
-   - Example:
-     - 気分が悪いので、お先に帰ってもいいですか。
-     - きぶんがわるいので、おさきにかえってもいいですか。
-     - I'm not feeling well, so may I leave early?
+   | V て-form | 、 〜 |
+   | V　ない-form なくて | 、 〜 |
+   | い-adj （〜　~~い~~) くて | 、 〜 |
+   | な-adj （〜　~~な~~)  で | 、 〜 |
 
-4. **Use case:** Describe something that happens partway through an ongoing action or process ("on the way").
-   **Pattern:** N の／V（辞書形・た形）とちゅうで、〜
-   - Example:
-     - マラソンのとちゅうで気分が悪くなりました。
-     - マラソンのとちゅうできぶんがわるくなりました。
-     - I started to feel unwell partway through the marathon.
+   Unlike the 〜から、〜 pattern, this pattern has several constraints:  
+    - The second part (consequence) cannot express volition: expressing feeling, states, or situation in the past.  
+      Example:  
+      疲れて、寝ました。 (Correct)  
+      つかれて、ねました。  
+      疲れて、寝ましょう。 (Incorrect)  
+      つかれて、ねましょう。  
+      I was tired and slept.  
+    
+    - The first part and second part are sequential events.  
+      Example:  
+      雨が降って、道がぬれました。 (Correct)  
+      あめがふって、みちがぬれました。
+      The rain fell, and the road got wet.  
+
+2. Particle で to indicate reason or cause.　　
+   Pattern:　
+   
+   N で | 〜
+
+   The N(oun) used in this pattern expresses a reason or cause from natural phenomena, events, and happenings. like じこ、あらし、かぜ、ねつ etc.  
+   Example:  
+   事故で電車が遅れました。  
+   じこででんしゃがおくれました。  
+   The train was delayed due to an accident.  
+
+3. ので to express reason or cause (more polite than から)  
+   Pattern:  
+   
+   | V る/ない-form + ので | 〜 |
+   | い-adj + い ので | 〜 |
+   | な-adj + な ので | 〜 |
+   | N + の ので | 〜 |        
+   
+   Example:  
+   - 疲れたので、寝ます。  
+     つかれたので、ねます。  
+     I am tired, so I will sleep.
+   - 雨が降っているので、出かけません。  
+     あめがふっているので、でかけません。  
+     I will not go out because it is raining.
+   - 風邪なので、学校を休みます。  
+     かぜなので、がっこうをやすみます。  
+     I am absent from school because I have a cold.  
+   - 先生なので、忙しいです。  
+     せんせいなので、いそがしいです。  
+     Because I am a teacher, I am busy.  
+
+
+4. Expression 途中で　 to indicate "in the middle of ~", "on the way ~"  
+   Pattern:  
+   
+   N (place, time) + 途中で、 |  〜
+   
+   Example:  
+   - 学校へ行く途中で、友達に会いました。  
+     がっこうへいくとちゅうで、ともだちにあいました。  
+     I met my friend on the way to school.
+   - 映画の途中で、電話がかかってきました。  
+     えいがのとちゅうで、でんわがかかってきました。  
+     A phone call came in during the movie.  
+   〜て、〜で、〜ので、途中で
 
 ## Vocabulary
 

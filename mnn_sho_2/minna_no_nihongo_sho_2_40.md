@@ -3,81 +3,75 @@ title: "Lesson 40"
 order: 40
 ---
 
-# 〜て、〜で、〜ので、途中で
+# 〜か、かどうか、でしょうか
 
 ## Grammar key points  
 
-1. Sentence to present cause (first part) and consequence (second part) resulted by the cause.  
-   Pattern:  
-
-   | V て-form | 、 〜 |
-   | V　ない-form なくて | 、 〜 |
-   | い-adj （〜　~~い~~) くて | 、 〜 |
-   | な-adj （〜　~~な~~)  で | 、 〜 |
-
-   Unlike the 〜から、〜 pattern, this pattern has several constraints:  
-    - The second part (consequence) cannot express volition: expressing feeling, states, or situation in the past.  
-      Example:  
-      疲れて、寝ました。 (Correct)  
-      つかれて、ねました。  
-      疲れて、寝ましょう。 (Incorrect)  
-      つかれて、ねましょう。  
-      I was tired and slept.  
-    
-    - The first part and second part are sequential events.  
-      Example:  
-      雨が降って、道がぬれました。 (Correct)  
-      あめがふって、みちがぬれました。
-      The rain fell, and the road got wet.  
-
-2. Particle で to indicate reason or cause.　　
-   Pattern:　
-   
-   N で | 〜
-
-   The N(oun) used in this pattern expresses a reason or cause from natural phenomena, events, and happenings. like じこ、あらし、かぜ、ねつ etc.  
-   Example:  
-   事故で電車が遅れました。  
-   じこででんしゃがおくれました。  
-   The train was delayed due to an accident.  
-
-3. ので to express reason or cause (more polite than から)  
+１． 〜か to express a question with an interrogative as a component of a sentence.  
    Pattern:  
    
-   | V る/ない-form + ので | 〜 |
-   | い-adj + い ので | 〜 |
-   | な-adj + な ので | 〜 |
-   | N + の ので | 〜 |        
+   | V る/ない-form + か | 〜 |
+   | い-adj + い か | 〜 |
+   | な-adj + な か | 〜 |
+   | N + の か | 〜 |        
    
    Example:  
-   - 疲れたので、寝ます。  
-     つかれたので、ねます。  
-     I am tired, so I will sleep.
-   - 雨が降っているので、出かけません。  
-     あめがふっているので、でかけません。  
-     I will not go out because it is raining.
-   - 風邪なので、学校を休みます。  
-     かぜなので、がっこうをやすみます。  
-     I am absent from school because I have a cold.  
-   - 先生なので、忙しいです。  
-     せんせいなので、いそがしいです。  
-     Because I am a teacher, I am busy.  
+   - 明日雨が降るか、天気伊予報で見てください。
+   　あしたあめがふるか、てんきよほうでみてください。  
+     Please check the weather forecast to see if it will rain tomorrow.　　
+     バス乗り場がどこにあるか、知っていますか。  
+     バスのりばがどこにあるか、しっていますか。  
+     Do you know where the bus stop is?  
 
 
-4. Expression 途中で　 to indicate "in the middle of ~", "on the way ~"  
+２． 〜かどうか to express uncertainty or doubt.  
    Pattern:  
    
-   N (place, time) + 途中で、 |  〜
+   | V る/ない-form + かどうか | 〜 |
+   | い-adj + い かどうか | 〜 |
+   | な-adj + な かどうか | 〜 |
+   | N + の かどうか | 〜 |        
    
    Example:  
-   - 学校へ行く途中で、友達に会いました。  
-     がっこうへいくとちゅうで、ともだちにあいました。  
-     I met my friend on the way to school.
-   - 映画の途中で、電話がかかってきました。  
-     えいがのとちゅうで、でんわがかかってきました。  
-     A phone call came in during the movie.  
+   - 明日雨が降るかどうかわかりません。  
+     あしたあめがふるかどうかわかりません。  
+     I don't know if it will rain tomorrow.  
+   - この仕事は簡単かどうかわかりません。  
+     このしごとはかんたんかどうかわかりません。  
+     I don't know if this work is easy or difficult.
+
+３．V(て-from) + みます is used to show action denoted by verb is trial 
+   Example:  
+ 1. もう一度やってみます  
+ 　　I'll try it one more.  
+ 2. この靴を履いてみてもいいですか？  
+    May I try this shoes?  
+
+４． 〜でしょうか to express a question politely.  
+   Pattern:  
+     
+   | V る/ない-form + でしょうか | 〜 |
+   | い-adj + い でしょうか | 〜 |
+   | な-adj + な でしょうか | 〜 |
+   | N + の でしょうか | 〜 |        
    
-   
+   Example:  
+   - 明日雨が降るでしょうか。  
+     あしたあめがふるでしょうか。  
+     I wonder if it will rain tomorrow.  
+   - この仕事は簡単でしょうか。  
+     このしごとはかんたんでしょうか。  
+     I wonder if this work is easy or difficult.
+
+5. 〜い-adj(~~〜い~~) > 〜さ　is used to transform adjective into noun.  
+
+   Example:  
+   1. 荷物の重さはどれくらいですか？
+   　　にもつ　の　おもさ　は　どれくらい　ですか？
+      How heavy is your luggage?
+   2. このテーブルの高さは１メートルです。
+   　　This table is 1 meters long.
+
 ## Vocabulary
 
 | Kanji/Kana | Reading | Meaning |
