@@ -40,7 +40,7 @@ order: 40
      このしごとはかんたんかどうかわかりません。  
      I don't know if this work is easy or difficult.
 
-３．V(て-from) + みます is used to show action denoted by verb is trial 
+３．V(て-from) + みます is used to show action denoted by verb is trial.  
    Example:  
  1. もう一度やってみます  
  　　I'll try it one more.  
@@ -63,13 +63,14 @@ order: 40
      このしごとはかんたんでしょうか。  
      I wonder if this work is easy or difficult.
 
-5. 〜い-adj(~~〜い~~) > 〜さ　is used to transform adjective into noun.  
+
+５．〜い-adj(~~〜い~~) > 〜さ　is used to transform adjective into noun.  
 
    Example:  
-   1. 荷物の重さはどれくらいですか？
-   　　にもつ　の　おもさ　は　どれくらい　ですか？
-      How heavy is your luggage?
-   2. このテーブルの高さは１メートルです。
+   1. 荷物の重さはどれくらいですか？  
+   　　にもつ　の　おもさ　は　どれくらい　ですか？  
+      How heavy is your luggage?  
+   2. このテーブルの高さは１メートルです。  
    　　This table is 1 meters long.
 
 ## Vocabulary
