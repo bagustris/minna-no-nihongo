@@ -16,7 +16,7 @@ order: 39
    | い-adj （〜　~~い~~) くて | 、 〜 |
    | な-adj （〜　~~な~~)  で | 、 〜 |
 
-   Unlike the 〜から、〜 pattern, this pattern has several constraints:  
+   Unlike the 〜から、this pattern has several constraints:  
     - The second part (consequence) cannot express volition: expressing feeling, states, or situation in the past.  
       Example:  
       疲れて、寝ました。 (Correct)  
