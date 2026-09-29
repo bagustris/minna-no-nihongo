@@ -3,9 +3,10 @@ title: "Lesson 40"
 order: 40
 ---
 
-# 〜か、かどうか、でしょうか
+# 疑問視: 〜か、かどうか、でしょうか
 
 ## Grammar key points  
+This lesson focuses on expressing questions and uncertainty in Japanese (疑問視/ぎもんし) using various grammatical structures. 
 
 １． 〜か to express a question with an interrogative as a component of a sentence.  
    Pattern:  
@@ -90,7 +91,7 @@ order: 40
 | 必要 | ひつよう | necessary |
 | 宇宙 | うちゅう | space, universe |
 | 地球 | ちきゅう | earth |
-| 忘年会 | ぼうねんかい | year end party |
+| 忘年会 | ぼうねんかい | year-end party |
 | 新年会 | しんねんかい | New Year's Party |
 | 二次会 | にじかい | second party |
 | 大会 | たいかい | mass meeting, convention |
@@ -136,7 +137,7 @@ order: 40
 | 積みます | つみます | load, pile up |
 | 運転手 | うんてんしゅ | driver |
 | 離れた | はなれた | remote |
-| が | が | but |
+| 〜が | が | but |
 | 急に | きゅうに | suddenly |
 | 動かします | うごかします | start, operate, move |
 | 犯人 | はんにん | suspect, criminal |

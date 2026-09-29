@@ -13,8 +13,7 @@ order: 34
      - 線のとおりに、切ってください。
      - せんのとおりに、きってください。
      - Please cut along the line.
-     - わたしがやるとおりに、やってください。
-     - わたしがやるとおりに、やってください。
+     - 私がやるとおりに、やってください。
      - Please do it the way I do it.
 
 2. **Use case:** Describe an action that occurs after a preceding action/event is completed.
@@ -52,7 +51,7 @@ order: 34
 | しょうゆをつけます | しょうゆをつけます | put in soy sauce |
 | 見つかります | みつかります | be found |
 | かぎを見つかりる | かぎをみつかります | a key was found |
-| します | します[ | put on ,wear |
+| します | します[ | put on, wear |
 | ネクタイをします | ネクタイをします | wear a tie |
 | 質問します | しつもんをします | ask a a question |
 | 細い | ほそい | thin (of small diameter) |
