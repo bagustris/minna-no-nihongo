@@ -50,6 +50,7 @@ order: 29
      - I lost my wallet somewhere. 
 
 8. Transitive verbs vs. intransitive verbs: Transitive verbs (他動詞) take a direct object and often have a corresponding intransitive verb (自動詞) that describes the state of the object after the action.  
+  
    | Transitive Verb (他動詞) | Intransitive Verb (自動詞) |　自動詞〜てみます　|
    |---------------------------|-----------------------------|-----------------|
    | 開けます | 開きます| ドアが開いています |
