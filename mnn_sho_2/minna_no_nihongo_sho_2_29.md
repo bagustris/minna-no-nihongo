@@ -50,20 +50,20 @@ order: 29
      - I lost my wallet somewhere. 
 
 8. Transitive verbs vs. intransitive verbs: Transitive verbs (他動詞) take a direct object and often have a corresponding intransitive verb (自動詞) that describes the state of the object after the action.  
-  
-   | Transitive Verb (他動詞) | Intransitive Verb (自動詞) |　自動詞〜てみます　|
-   |---------------------------|-----------------------------|-----------------|
+
+   | Transitive Verb (他動詞)　|　Intransitive Verb (自動詞) |　自動詞〜ています　|
+   |-------------------------|----------------------------|-----------------|
    | 開けます | 開きます| ドアが開いています |
    | 閉めます | 閉まります | ドアが閉まっています |
    | つけます | つきます | 電気がついています |
-   | 消します | 消えます | 電気が消えています |  
+   | 消します | 消えます | 電気が消えています |
    | 壊します | 壊れます | いすが壊れています |
    | 割ります | 割れます | コップが割れています |
    | 折ります | 折れます | 木が折れています |
    | 破ります | 破れます | 紙が破れています |
    | 汚します | 汚れます | 服が汚れています |
    | 入れます | 入ります | かばんが入っています |
-   | 掛けます | 掛かります | かぎが掛かっています |　
+   | 掛けます | 掛かります | かぎが掛かっています |
 
 
 ## Vocabulary
